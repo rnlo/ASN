@@ -271,7 +271,7 @@ def scrape_data(region_code):
             file.write("# https://github.com/rnlo/ASN\n")
             for item in selected_data:
                 file.write(item + '\n')
-        print(f"{region_code}ASN Generated from {url} and saved to ASN{region_code}.list.")
+        print(f"{region_code}ASN Generated from {url} and saved to {region_code}.list.")
     else:
         print(f"Result has less than 0 lines for {region_code}. Not writing to file.")
 
