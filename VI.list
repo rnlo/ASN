@@ -1,11 +1,12 @@
 # 🇻🇮VIASN Generated from https://bgp.he.net/country/VI
-# Updated at UTC 2024-04-30 08:15:53
-# Total lines: 7
+# Updated at UTC 2024-05-01 08:18:17
+# Total lines: 8
 # https://github.com/rnlo/ASN
 IP-ASN,14434
 IP-ASN,22581
-IP-ASN,400099
 IP-ASN,393275
+IP-ASN,400099
+IP-ASN,53248
 IP-ASN,400741
 IP-ASN,20243
 IP-ASN,13687
