@@ -1,6 +1,6 @@
 # 🇺🇾UYASN Generated from https://bgp.he.net/country/UY
-# Updated at UTC 2024-05-03 08:15:19
-# Total lines: 26
+# Updated at UTC 2024-05-05 08:56:18
+# Total lines: 27
 # https://github.com/rnlo/ASN
 IP-ASN,6057
 IP-ASN,28001
@@ -22,6 +22,7 @@ IP-ASN,27848
 IP-ASN,266886
 IP-ASN,264845
 IP-ASN,18667
+IP-ASN,28002
 IP-ASN,273012
 IP-ASN,273004
 IP-ASN,273002
