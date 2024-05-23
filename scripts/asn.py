@@ -316,10 +316,10 @@ def write_data_to_file(region_code, selected_data, url, suffix="", ip_version=No
 
             file_name = f"{region_code}{suffix}.list"
             with open(file_name, "w") as file:
-                file.write(f"# {region_flag}{region_code} ASN Generated from {url}\n")
+                file.write(f"# {region_flag}{region_code}ASN Generated from {url}\n")
+                file.write(f"# Updated at UTC {timestamp}\n")
                 if ip_version:
                     file.write(f"# {ip_version} Only\n")
-                file.write(f"# Updated at UTC {timestamp}\n")
                 file.write(f"# Total lines: {len(selected_data)}\n")
                 file.write("# https://github.com/rnlo/ASN\n")
                 file.writelines(f"{line}\n" for line in selected_data)
