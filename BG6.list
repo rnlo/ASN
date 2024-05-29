@@ -1,5 +1,5 @@
 # 🇧🇬BGASN Generated from https://bgp.he.net/country/BG
-# Updated at UTC 2024-05-28 08:12:17
+# Updated at UTC 2024-05-29 08:12:24
 # IPv6 Only
 # Total lines: 130
 # https://github.com/rnlo/ASN
@@ -27,11 +27,11 @@ IP-ASN,31490
 IP-ASN,204281
 IP-ASN,42446
 IP-ASN,39396
-IP-ASN,39251
 IP-ASN,205138
 IP-ASN,202129
-IP-ASN,25374
+IP-ASN,39251
 IP-ASN,198228
+IP-ASN,25374
 IP-ASN,203391
 IP-ASN,31293
 IP-ASN,43561
