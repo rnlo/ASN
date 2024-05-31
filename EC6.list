@@ -1,7 +1,7 @@
 # 🇪🇨ECASN Generated from https://bgp.he.net/country/EC
-# Updated at UTC 2024-05-30 08:13:06
+# Updated at UTC 2024-05-31 08:12:50
 # IPv6 Only
-# Total lines: 133
+# Total lines: 132
 # https://github.com/rnlo/ASN
 IP-ASN,27947
 IP-ASN,22724
@@ -33,7 +33,6 @@ IP-ASN,264825
 IP-ASN,264746
 IP-ASN,52458
 IP-ASN,52238
-IP-ASN,273081
 IP-ASN,272877
 IP-ASN,272097
 IP-ASN,272019
