@@ -1,7 +1,7 @@
 # 🇮🇲IMASN Generated from https://bgp.he.net/country/IM
-# Updated at UTC 2024-06-11 08:16:02
+# Updated at UTC 2024-06-12 08:15:32
 # IPv4 Only
-# Total lines: 13
+# Total lines: 14
 # https://github.com/rnlo/ASN
 IP-ASN,13122
 IP-ASN,15766
@@ -14,5 +14,6 @@ IP-ASN,48536
 IP-ASN,44481
 IP-ASN,35691
 IP-ASN,24851
+IP-ASN,215324
 IP-ASN,201898
 IP-ASN,197385
