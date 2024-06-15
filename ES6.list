@@ -1,5 +1,5 @@
 # 🇪🇸ESASN Generated from https://bgp.he.net/country/ES
-# Updated at UTC 2024-06-14 08:10:56
+# Updated at UTC 2024-06-15 08:10:31
 # IPv6 Only
 # Total lines: 261
 # https://github.com/rnlo/ASN
@@ -49,6 +49,7 @@ IP-ASN,212755
 IP-ASN,35394
 IP-ASN,202813
 IP-ASN,199496
+IP-ASN,210612
 IP-ASN,209835
 IP-ASN,202844
 IP-ASN,205572
@@ -61,7 +62,6 @@ IP-ASN,6895
 IP-ASN,210321
 IP-ASN,202513
 IP-ASN,213138
-IP-ASN,210612
 IP-ASN,202829
 IP-ASN,202550
 IP-ASN,12338

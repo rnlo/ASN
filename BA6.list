@@ -1,7 +1,7 @@
 # 🇧🇦BAASN Generated from https://bgp.he.net/country/BA
-# Updated at UTC 2024-06-14 08:14:09
+# Updated at UTC 2024-06-15 08:13:45
 # IPv6 Only
-# Total lines: 14
+# Total lines: 13
 # https://github.com/rnlo/ASN
 IP-ASN,9146
 IP-ASN,25144
@@ -11,9 +11,8 @@ IP-ASN,8670
 IP-ASN,42571
 IP-ASN,200698
 IP-ASN,50537
+IP-ASN,200914
 IP-ASN,198252
 IP-ASN,47959
 IP-ASN,209098
 IP-ASN,202632
-IP-ASN,200914
-IP-ASN,197754
