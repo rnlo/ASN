@@ -1,5 +1,5 @@
 # 🇭🇷HRASN Generated from https://bgp.he.net/country/HR
-# Updated at UTC 2024-06-18 08:14:18
+# Updated at UTC 2024-06-19 08:13:15
 # Total lines: 142
 # https://github.com/rnlo/ASN
 IP-ASN,44306
@@ -67,6 +67,7 @@ IP-ASN,35225
 IP-ASN,34748
 IP-ASN,34522
 IP-ASN,34463
+IP-ASN,31012
 IP-ASN,30905
 IP-ASN,25328
 IP-ASN,211133
@@ -109,7 +110,6 @@ IP-ASN,42593
 IP-ASN,35128
 IP-ASN,34519
 IP-ASN,31215
-IP-ASN,31012
 IP-ASN,30841
 IP-ASN,29647
 IP-ASN,29485
