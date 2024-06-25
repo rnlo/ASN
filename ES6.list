@@ -1,7 +1,7 @@
 # 🇪🇸ESASN Generated from https://bgp.he.net/country/ES
-# Updated at UTC 2024-06-24 08:11:56
+# Updated at UTC 2024-06-25 08:12:20
 # IPv6 Only
-# Total lines: 261
+# Total lines: 262
 # https://github.com/rnlo/ASN
 IP-ASN,60171
 IP-ASN,29119
@@ -150,6 +150,7 @@ IP-ASN,25589
 IP-ASN,212963
 IP-ASN,212812
 IP-ASN,212059
+IP-ASN,211974
 IP-ASN,211262
 IP-ASN,210181
 IP-ASN,209589
