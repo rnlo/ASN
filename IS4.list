@@ -1,5 +1,5 @@
 # 🇮🇸ISASN Generated from https://bgp.he.net/country/IS
-# Updated at UTC 2024-06-25 08:15:02
+# Updated at UTC 2024-06-26 08:13:45
 # IPv4 Only
 # Total lines: 65
 # https://github.com/rnlo/ASN
@@ -32,7 +32,6 @@ IP-ASN,59396
 IP-ASN,57508
 IP-ASN,50613
 IP-ASN,47545
-IP-ASN,44644
 IP-ASN,25244
 IP-ASN,212926
 IP-ASN,211589
@@ -47,6 +46,7 @@ IP-ASN,197403
 IP-ASN,57729
 IP-ASN,51296
 IP-ASN,44925
+IP-ASN,44644
 IP-ASN,44515
 IP-ASN,44275
 IP-ASN,42888
