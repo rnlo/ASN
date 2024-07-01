@@ -1,7 +1,7 @@
 # 🇲🇲MMASN Generated from https://bgp.he.net/country/MM
-# Updated at UTC 2024-06-30 08:12:42
+# Updated at UTC 2024-07-01 08:14:08
 # IPv6 Only
-# Total lines: 48
+# Total lines: 49
 # https://github.com/rnlo/ASN
 IP-ASN,58952
 IP-ASN,136255
@@ -50,4 +50,5 @@ IP-ASN,138167
 IP-ASN,137431
 IP-ASN,136229
 IP-ASN,136210
+IP-ASN,134484
 IP-ASN,133384
