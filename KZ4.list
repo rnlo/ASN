@@ -1,5 +1,5 @@
 # 🇰🇿KZASN Generated from https://bgp.he.net/country/KZ
-# Updated at UTC 2024-07-04 08:13:18
+# Updated at UTC 2024-07-05 08:13:28
 # IPv4 Only
 # Total lines: 167
 # https://github.com/rnlo/ASN
@@ -40,6 +40,7 @@ IP-ASN,43370
 IP-ASN,42770
 IP-ASN,41371
 IP-ASN,39318
+IP-ASN,35673
 IP-ASN,29046
 IP-ASN,208356
 IP-ASN,206768
@@ -54,7 +55,6 @@ IP-ASN,48007
 IP-ASN,43215
 IP-ASN,42447
 IP-ASN,39221
-IP-ASN,35673
 IP-ASN,31525
 IP-ASN,25534
 IP-ASN,213048
