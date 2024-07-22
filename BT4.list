@@ -1,7 +1,7 @@
 # 🇧🇹BTASN Generated from https://bgp.he.net/country/BT
-# Updated at UTC 2024-07-21 08:14:21
+# Updated at UTC 2024-07-22 08:16:39
 # IPv4 Only
-# Total lines: 19
+# Total lines: 20
 # https://github.com/rnlo/ASN
 IP-ASN,17660
 IP-ASN,38740
@@ -20,5 +20,6 @@ IP-ASN,138529
 IP-ASN,137994
 IP-ASN,137925
 IP-ASN,38004
+IP-ASN,152317
 IP-ASN,151498
 IP-ASN,137412
