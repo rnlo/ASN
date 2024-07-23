@@ -1,5 +1,5 @@
 # 🇨🇭CHASN Generated from https://bgp.he.net/country/CH
-# Updated at UTC 2024-07-22 08:13:19
+# Updated at UTC 2024-07-23 08:13:20
 # IPv6 Only
 # Total lines: 408
 # https://github.com/rnlo/ASN
@@ -89,10 +89,10 @@ IP-ASN,60804
 IP-ASN,35202
 IP-ASN,29424
 IP-ASN,62371
-IP-ASN,34800
 IP-ASN,25563
 IP-ASN,9092
 IP-ASN,41872
+IP-ASN,34800
 IP-ASN,30786
 IP-ASN,25375
 IP-ASN,206616
