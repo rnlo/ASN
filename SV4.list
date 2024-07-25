@@ -1,5 +1,5 @@
 # 🇸🇻SVASN Generated from https://bgp.he.net/country/SV
-# Updated at UTC 2024-07-24 08:14:59
+# Updated at UTC 2024-07-25 08:15:42
 # IPv4 Only
 # Total lines: 37
 # https://github.com/rnlo/ASN
@@ -9,6 +9,7 @@ IP-ASN,16906
 IP-ASN,16592
 IP-ASN,27903
 IP-ASN,27708
+IP-ASN,265780
 IP-ASN,263783
 IP-ASN,263695
 IP-ASN,262179
@@ -19,7 +20,6 @@ IP-ASN,269815
 IP-ASN,269734
 IP-ASN,267752
 IP-ASN,266893
-IP-ASN,265780
 IP-ASN,264813
 IP-ASN,264720
 IP-ASN,61502

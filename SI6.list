@@ -1,7 +1,7 @@
 # 🇸🇮SIASN Generated from https://bgp.he.net/country/SI
-# Updated at UTC 2024-07-24 08:12:52
+# Updated at UTC 2024-07-25 08:13:35
 # IPv6 Only
-# Total lines: 75
+# Total lines: 76
 # https://github.com/rnlo/ASN
 IP-ASN,3212
 IP-ASN,5603
@@ -68,6 +68,7 @@ IP-ASN,49754
 IP-ASN,41104
 IP-ASN,28933
 IP-ASN,212405
+IP-ASN,210197
 IP-ASN,206491
 IP-ASN,201522
 IP-ASN,198923
