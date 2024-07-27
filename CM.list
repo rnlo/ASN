@@ -1,11 +1,11 @@
 # 🇨🇲CMASN Generated from https://bgp.he.net/country/CM
-# Updated at UTC 2024-07-26 08:14:26
-# Total lines: 20
+# Updated at UTC 2024-07-27 08:13:34
+# Total lines: 21
 # https://github.com/rnlo/ASN
 IP-ASN,15964
 IP-ASN,328840
-IP-ASN,30992
 IP-ASN,36955
+IP-ASN,30992
 IP-ASN,36912
 IP-ASN,37672
 IP-ASN,37089
@@ -22,3 +22,4 @@ IP-ASN,328937
 IP-ASN,328920
 IP-ASN,328913
 IP-ASN,328352
+IP-ASN,329457
