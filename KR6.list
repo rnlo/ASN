@@ -1,5 +1,5 @@
 # 🇰🇷KRASN Generated from https://bgp.he.net/country/KR
-# Updated at UTC 2024-08-07 08:12:01
+# Updated at UTC 2024-08-08 08:12:06
 # IPv6 Only
 # Total lines: 57
 # https://github.com/rnlo/ASN
@@ -27,12 +27,12 @@ IP-ASN,23599
 IP-ASN,23596
 IP-ASN,10197
 IP-ASN,45560
+IP-ASN,131866
 IP-ASN,9644
 IP-ASN,45370
 IP-ASN,210576
 IP-ASN,152671
 IP-ASN,142273
-IP-ASN,131866
 IP-ASN,9764
 IP-ASN,9700
 IP-ASN,7625
