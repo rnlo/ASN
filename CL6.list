@@ -1,5 +1,5 @@
 # 🇨🇱CLASN Generated from https://bgp.he.net/country/CL
-# Updated at UTC 2024-08-10 08:11:33
+# Updated at UTC 2024-08-11 08:11:24
 # IPv6 Only
 # Total lines: 98
 # https://github.com/rnlo/ASN
@@ -51,7 +51,6 @@ IP-ASN,27678
 IP-ASN,270024
 IP-ASN,267745
 IP-ASN,265830
-IP-ASN,265743
 IP-ASN,52304
 IP-ASN,27978
 IP-ASN,27735
@@ -63,6 +62,7 @@ IP-ASN,52439
 IP-ASN,273019
 IP-ASN,270013
 IP-ASN,267848
+IP-ASN,265743
 IP-ASN,265656
 IP-ASN,20191
 IP-ASN,28120
