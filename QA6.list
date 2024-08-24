@@ -1,7 +1,7 @@
 # 🇶🇦QAASN Generated from https://bgp.he.net/country/QA
-# Updated at UTC 2024-08-23 08:17:27
+# Updated at UTC 2024-08-24 08:15:22
 # IPv6 Only
-# Total lines: 8
+# Total lines: 9
 # https://github.com/rnlo/ASN
 IP-ASN,8781
 IP-ASN,48728
@@ -11,3 +11,4 @@ IP-ASN,60185
 IP-ASN,208944
 IP-ASN,28821
 IP-ASN,198499
+IP-ASN,215624
