@@ -1,6 +1,6 @@
 # 🇲🇺MUASN Generated from https://bgp.he.net/country/MU
-# Updated at UTC 2024-08-24 08:13:54
-# Total lines: 32
+# Updated at UTC 2024-08-25 08:14:31
+# Total lines: 31
 # https://github.com/rnlo/ASN
 IP-ASN,37100
 IP-ASN,37662
@@ -15,8 +15,8 @@ IP-ASN,33764
 IP-ASN,37181
 IP-ASN,37177
 IP-ASN,37722
-IP-ASN,328019
 IP-ASN,37708
+IP-ASN,328019
 IP-ASN,5536
 IP-ASN,37379
 IP-ASN,329069
@@ -33,4 +33,3 @@ IP-ASN,328623
 IP-ASN,328476
 IP-ASN,327919
 IP-ASN,19676
-IP-ASN,17652

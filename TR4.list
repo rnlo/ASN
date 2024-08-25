@@ -1,5 +1,5 @@
 # 🇹🇷TRASN Generated from https://bgp.he.net/country/TR
-# Updated at UTC 2024-08-24 08:10:59
+# Updated at UTC 2024-08-25 08:11:16
 # IPv4 Only
 # Total lines: 723
 # https://github.com/rnlo/ASN
@@ -137,7 +137,6 @@ IP-ASN,51683
 IP-ASN,51625
 IP-ASN,51435
 IP-ASN,51174
-IP-ASN,50139
 IP-ASN,50135
 IP-ASN,50055
 IP-ASN,50019
@@ -356,6 +355,7 @@ IP-ASN,50913
 IP-ASN,50875
 IP-ASN,50565
 IP-ASN,50528
+IP-ASN,50139
 IP-ASN,50111
 IP-ASN,50090
 IP-ASN,49887
