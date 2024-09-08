@@ -1,7 +1,7 @@
 # 🇲🇳MNASN Generated from https://bgp.he.net/country/MN
-# Updated at UTC 2024-09-07 08:13:40
+# Updated at UTC 2024-09-08 08:14:02
 # IPv6 Only
-# Total lines: 16
+# Total lines: 15
 # https://github.com/rnlo/ASN
 IP-ASN,55805
 IP-ASN,45204
@@ -16,6 +16,5 @@ IP-ASN,134074
 IP-ASN,10219
 IP-ASN,10076
 IP-ASN,56293
-IP-ASN,152337
 IP-ASN,141681
 IP-ASN,10109
