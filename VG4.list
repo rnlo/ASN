@@ -1,7 +1,7 @@
 # 🇻🇬VGASN Generated from https://bgp.he.net/country/VG
-# Updated at UTC 2024-09-25 08:17:22
+# Updated at UTC 2024-09-26 08:16:43
 # IPv4 Only
-# Total lines: 32
+# Total lines: 31
 # https://github.com/rnlo/ASN
 IP-ASN,200612
 IP-ASN,62041
@@ -30,7 +30,6 @@ IP-ASN,47191
 IP-ASN,46088
 IP-ASN,40809
 IP-ASN,397636
-IP-ASN,25824
 IP-ASN,209929
 IP-ASN,205556
 IP-ASN,202826
