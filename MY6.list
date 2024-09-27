@@ -1,5 +1,5 @@
 # 🇲🇾MYASN Generated from https://bgp.he.net/country/MY
-# Updated at UTC 2024-09-26 08:14:16
+# Updated at UTC 2024-09-27 08:14:12
 # IPv6 Only
 # Total lines: 118
 # https://github.com/rnlo/ASN
@@ -38,8 +38,8 @@ IP-ASN,4818
 IP-ASN,149440
 IP-ASN,136978
 IP-ASN,134152
-IP-ASN,56140
 IP-ASN,45630
+IP-ASN,56140
 IP-ASN,23678
 IP-ASN,45785
 IP-ASN,135542
