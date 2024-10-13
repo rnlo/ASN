@@ -1,5 +1,5 @@
 # 🇦🇲AMASN Generated from https://bgp.he.net/country/AM
-# Updated at UTC 2024-10-12 08:14:08
+# Updated at UTC 2024-10-13 08:14:30
 # IPv4 Only
 # Total lines: 114
 # https://github.com/rnlo/ASN
@@ -18,7 +18,6 @@ IP-ASN,16190
 IP-ASN,47623
 IP-ASN,210147
 IP-ASN,205368
-IP-ASN,202269
 IP-ASN,51225
 IP-ASN,42991
 IP-ASN,42109
@@ -28,6 +27,7 @@ IP-ASN,207810
 IP-ASN,207092
 IP-ASN,206543
 IP-ASN,204267
+IP-ASN,202269
 IP-ASN,56561
 IP-ASN,51493
 IP-ASN,51327
