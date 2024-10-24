@@ -1,6 +1,6 @@
 # 🇨🇩CDASN Generated from https://bgp.he.net/country/CD
-# Updated at UTC 2024-10-23 08:16:45
-# Total lines: 39
+# Updated at UTC 2024-10-24 08:17:07
+# Total lines: 40
 # https://github.com/rnlo/ASN
 IP-ASN,328442
 IP-ASN,37447
@@ -26,6 +26,7 @@ IP-ASN,328445
 IP-ASN,329489
 IP-ASN,329342
 IP-ASN,329017
+IP-ASN,328928
 IP-ASN,328771
 IP-ASN,328601
 IP-ASN,328569
