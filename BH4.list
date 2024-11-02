@@ -1,7 +1,7 @@
 # 🇧🇭BHASN Generated from https://bgp.he.net/country/BH
-# Updated at UTC 2024-11-01 08:17:11
+# Updated at UTC 2024-11-02 08:16:36
 # IPv4 Only
-# Total lines: 20
+# Total lines: 19
 # https://github.com/rnlo/ASN
 IP-ASN,5416
 IP-ASN,35313
@@ -21,5 +21,4 @@ IP-ASN,48109
 IP-ASN,35546
 IP-ASN,215287
 IP-ASN,210968
-IP-ASN,210052
 IP-ASN,201998
