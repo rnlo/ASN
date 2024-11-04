@@ -1,5 +1,5 @@
 # 🇸🇦SAASN Generated from https://bgp.he.net/country/SA
-# Updated at UTC 2024-11-03 08:13:41
+# Updated at UTC 2024-11-04 08:16:01
 # IPv4 Only
 # Total lines: 153
 # https://github.com/rnlo/ASN
@@ -9,6 +9,7 @@ IP-ASN,35753
 IP-ASN,47794
 IP-ASN,35819
 IP-ASN,25019
+IP-ASN,214329
 IP-ASN,42411
 IP-ASN,43766
 IP-ASN,29684
@@ -74,7 +75,6 @@ IP-ASN,31699
 IP-ASN,31416
 IP-ASN,215611
 IP-ASN,215442
-IP-ASN,214329
 IP-ASN,212889
 IP-ASN,212758
 IP-ASN,212436
