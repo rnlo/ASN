@@ -1,5 +1,5 @@
 # 🇸🇰SKASN Generated from https://bgp.he.net/country/SK
-# Updated at UTC 2024-11-16 08:13:40
+# Updated at UTC 2024-11-17 08:13:26
 # IPv6 Only
 # Total lines: 94
 # https://github.com/rnlo/ASN
@@ -72,6 +72,7 @@ IP-ASN,58130
 IP-ASN,58044
 IP-ASN,58014
 IP-ASN,57475
+IP-ASN,52139
 IP-ASN,44631
 IP-ASN,44001
 IP-ASN,43451
@@ -82,7 +83,6 @@ IP-ASN,209070
 IP-ASN,208668
 IP-ASN,208429
 IP-ASN,207437
-IP-ASN,204948
 IP-ASN,204716
 IP-ASN,204690
 IP-ASN,203103
