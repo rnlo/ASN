@@ -1,7 +1,7 @@
 # 🇨🇼CWASN Generated from https://bgp.he.net/country/CW
-# Updated at UTC 2024-11-19 08:17:15
+# Updated at UTC 2024-11-20 08:17:12
 # IPv4 Only
-# Total lines: 19
+# Total lines: 20
 # https://github.com/rnlo/ASN
 IP-ASN,11081
 IP-ASN,52391
@@ -12,6 +12,7 @@ IP-ASN,272996
 IP-ASN,61473
 IP-ASN,52301
 IP-ASN,26505
+IP-ASN,26434
 IP-ASN,262238
 IP-ASN,262164
 IP-ASN,60906
