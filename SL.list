@@ -1,11 +1,11 @@
 # 🇸🇱SLASN Generated from https://bgp.he.net/country/SL
-# Updated at UTC 2024-11-22 08:19:47
-# Total lines: 18
+# Updated at UTC 2024-11-23 08:16:05
+# Total lines: 17
 # https://github.com/rnlo/ASN
 IP-ASN,329109
 IP-ASN,327903
-IP-ASN,37164
 IP-ASN,37449
+IP-ASN,37164
 IP-ASN,36988
 IP-ASN,328581
 IP-ASN,328297
@@ -18,5 +18,4 @@ IP-ASN,327990
 IP-ASN,209049
 IP-ASN,37723
 IP-ASN,37418
-IP-ASN,329439
 IP-ASN,328236
