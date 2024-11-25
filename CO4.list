@@ -1,5 +1,5 @@
 # 🇨🇴COASN Generated from https://bgp.he.net/country/CO
-# Updated at UTC 2024-11-24 08:12:50
+# Updated at UTC 2024-11-25 08:15:39
 # IPv4 Only
 # Total lines: 278
 # https://github.com/rnlo/ASN
@@ -12,9 +12,9 @@ IP-ASN,14080
 IP-ASN,3816
 IP-ASN,262186
 IP-ASN,19429
-IP-ASN,64124
 IP-ASN,267708
 IP-ASN,14187
+IP-ASN,64124
 IP-ASN,265688
 IP-ASN,272156
 IP-ASN,10299
