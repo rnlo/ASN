@@ -1,7 +1,7 @@
 # 🇲🇹MTASN Generated from https://bgp.he.net/country/MT
-# Updated at UTC 2024-11-28 08:17:23
+# Updated at UTC 2024-11-29 08:17:31
 # IPv4 Only
-# Total lines: 43
+# Total lines: 44
 # https://github.com/rnlo/ASN
 IP-ASN,209045
 IP-ASN,12709
@@ -46,3 +46,4 @@ IP-ASN,208136
 IP-ASN,207406
 IP-ASN,204090
 IP-ASN,200805
+IP-ASN,133409
