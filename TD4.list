@@ -1,7 +1,7 @@
 # 🇹🇩TDASN Generated from https://bgp.he.net/country/TD
-# Updated at UTC 2024-12-05 08:19:20
+# Updated at UTC 2024-12-06 08:19:02
 # IPv4 Only
-# Total lines: 12
+# Total lines: 13
 # https://github.com/rnlo/ASN
 IP-ASN,328594
 IP-ASN,329207
@@ -14,4 +14,5 @@ IP-ASN,329312
 IP-ASN,329158
 IP-ASN,328604
 IP-ASN,328599
+IP-ASN,328104
 IP-ASN,327864
