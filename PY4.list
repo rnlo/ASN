@@ -1,5 +1,5 @@
 # 🇵🇾PYASN Generated from https://bgp.he.net/country/PY
-# Updated at UTC 2024-12-06 08:16:52
+# Updated at UTC 2024-12-07 08:15:15
 # IPv4 Only
 # Total lines: 87
 # https://github.com/rnlo/ASN
@@ -58,7 +58,6 @@ IP-ASN,264705
 IP-ASN,264633
 IP-ASN,264631
 IP-ASN,263169
-IP-ASN,262250
 IP-ASN,52418
 IP-ASN,27866
 IP-ASN,27727
@@ -88,5 +87,6 @@ IP-ASN,266782
 IP-ASN,265759
 IP-ASN,264756
 IP-ASN,263228
+IP-ASN,262250
 IP-ASN,262200
 IP-ASN,262183
