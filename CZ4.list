@@ -1,5 +1,5 @@
 # 🇨🇿CZASN Generated from https://bgp.he.net/country/CZ
-# Updated at UTC 2024-12-16 08:15:58
+# Updated at UTC 2024-12-17 08:15:03
 # IPv4 Only
 # Total lines: 572
 # https://github.com/rnlo/ASN
@@ -37,12 +37,12 @@ IP-ASN,51331
 IP-ASN,42306
 IP-ASN,15614
 IP-ASN,56456
-IP-ASN,50113
 IP-ASN,47949
 IP-ASN,44002
 IP-ASN,210139
 IP-ASN,199490
 IP-ASN,197019
+IP-ASN,50113
 IP-ASN,43500
 IP-ASN,43070
 IP-ASN,28972
