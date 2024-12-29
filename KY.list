@@ -1,6 +1,6 @@
 # 🇰🇾KYASN Generated from https://bgp.he.net/country/KY
-# Updated at UTC 2024-12-28 08:17:29
-# Total lines: 9
+# Updated at UTC 2024-12-29 08:17:55
+# Total lines: 10
 # https://github.com/rnlo/ASN
 IP-ASN,36549
 IP-ASN,397343
@@ -9,5 +9,6 @@ IP-ASN,13771
 IP-ASN,6639
 IP-ASN,398831
 IP-ASN,398132
+IP-ASN,3402
 IP-ASN,21744
 IP-ASN,16705
