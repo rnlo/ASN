@@ -1,5 +1,5 @@
 # 🇯🇵JPASN Generated from https://bgp.he.net/country/JP
-# Updated at UTC 2024-12-29 08:12:20
+# Updated at UTC 2024-12-30 08:13:40
 # IPv6 Only
 # Total lines: 437
 # https://github.com/rnlo/ASN
@@ -128,12 +128,12 @@ IP-ASN,4785
 IP-ASN,4678
 IP-ASN,37892
 IP-ASN,24249
+IP-ASN,23805
 IP-ASN,9601
 IP-ASN,45687
 IP-ASN,38639
 IP-ASN,24278
 IP-ASN,23827
-IP-ASN,23805
 IP-ASN,23661
 IP-ASN,23641
 IP-ASN,23627
