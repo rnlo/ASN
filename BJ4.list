@@ -1,5 +1,5 @@
 # 🇧🇯BJASN Generated from https://bgp.he.net/country/BJ
-# Updated at UTC 2025-01-01 08:17:35
+# Updated at UTC 2025-01-02 08:17:17
 # IPv4 Only
 # Total lines: 14
 # https://github.com/rnlo/ASN
@@ -8,9 +8,9 @@ IP-ASN,37090
 IP-ASN,37136
 IP-ASN,328092
 IP-ASN,37424
+IP-ASN,328228
 IP-ASN,37292
 IP-ASN,328702
-IP-ASN,328228
 IP-ASN,329156
 IP-ASN,329107
 IP-ASN,329086
