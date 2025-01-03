@@ -1,5 +1,5 @@
 # 🇸🇪SEASN Generated from https://bgp.he.net/country/SE
-# Updated at UTC 2025-01-02 08:13:26
+# Updated at UTC 2025-01-03 08:13:29
 # IPv6 Only
 # Total lines: 377
 # https://github.com/rnlo/ASN
@@ -56,8 +56,8 @@ IP-ASN,199520
 IP-ASN,34244
 IP-ASN,9201
 IP-ASN,213113
-IP-ASN,3308
 IP-ASN,208453
+IP-ASN,3308
 IP-ASN,48768
 IP-ASN,29468
 IP-ASN,48220
