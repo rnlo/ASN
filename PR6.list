@@ -1,7 +1,7 @@
 # 🇵🇷PRASN Generated from https://bgp.he.net/country/PR
-# Updated at UTC 2025-01-04 08:13:58
+# Updated at UTC 2025-01-05 08:14:16
 # IPv6 Only
-# Total lines: 36
+# Total lines: 35
 # https://github.com/rnlo/ASN
 IP-ASN,21559
 IP-ASN,23114
@@ -19,7 +19,6 @@ IP-ASN,30526
 IP-ASN,393573
 IP-ASN,35892
 IP-ASN,46868
-IP-ASN,39963
 IP-ASN,399599
 IP-ASN,398326
 IP-ASN,396055

@@ -1,7 +1,7 @@
 # 🇦🇴AOASN Generated from https://bgp.he.net/country/AO
-# Updated at UTC 2025-01-04 08:14:16
+# Updated at UTC 2025-01-05 08:14:32
 # IPv6 Only
-# Total lines: 16
+# Total lines: 15
 # https://github.com/rnlo/ASN
 IP-ASN,37468
 IP-ASN,37645
@@ -18,4 +18,3 @@ IP-ASN,37011
 IP-ASN,36917
 IP-ASN,328979
 IP-ASN,328943
-IP-ASN,329370
