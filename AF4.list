@@ -1,5 +1,5 @@
 # 🇦🇫AFASN Generated from https://bgp.he.net/country/AF
-# Updated at UTC 2025-01-06 08:17:19
+# Updated at UTC 2025-01-07 08:16:43
 # IPv4 Only
 # Total lines: 57
 # https://github.com/rnlo/ASN
@@ -16,6 +16,7 @@ IP-ASN,133202
 IP-ASN,132222
 IP-ASN,59317
 IP-ASN,58697
+IP-ASN,55745
 IP-ASN,55424
 IP-ASN,17411
 IP-ASN,142541
@@ -28,7 +29,6 @@ IP-ASN,133076
 IP-ASN,59381
 IP-ASN,59355
 IP-ASN,58427
-IP-ASN,55745
 IP-ASN,38742
 IP-ASN,153394
 IP-ASN,153324
