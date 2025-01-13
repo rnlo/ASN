@@ -1,5 +1,5 @@
 # 🇰🇼KWASN Generated from https://bgp.he.net/country/KW
-# Updated at UTC 2025-01-12 08:14:05
+# Updated at UTC 2025-01-13 08:17:15
 # IPv4 Only
 # Total lines: 70
 # https://github.com/rnlo/ASN
@@ -28,7 +28,6 @@ IP-ASN,47442
 IP-ASN,43184
 IP-ASN,43158
 IP-ASN,42642
-IP-ASN,39682
 IP-ASN,35181
 IP-ASN,29029
 IP-ASN,211394
@@ -59,6 +58,7 @@ IP-ASN,43080
 IP-ASN,42606
 IP-ASN,41890
 IP-ASN,41576
+IP-ASN,39682
 IP-ASN,39504
 IP-ASN,29237
 IP-ASN,25242
