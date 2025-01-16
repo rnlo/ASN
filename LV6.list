@@ -1,5 +1,5 @@
 # 🇱🇻LVASN Generated from https://bgp.he.net/country/LV
-# Updated at UTC 2025-01-15 08:13:57
+# Updated at UTC 2025-01-16 08:13:59
 # IPv6 Only
 # Total lines: 60
 # https://github.com/rnlo/ASN
@@ -30,6 +30,7 @@ IP-ASN,47485
 IP-ASN,49549
 IP-ASN,41563
 IP-ASN,213166
+IP-ASN,211381
 IP-ASN,203339
 IP-ASN,12509
 IP-ASN,8605
@@ -39,7 +40,6 @@ IP-ASN,51894
 IP-ASN,43615
 IP-ASN,29345
 IP-ASN,215329
-IP-ASN,211381
 IP-ASN,206362
 IP-ASN,60567
 IP-ASN,52173
