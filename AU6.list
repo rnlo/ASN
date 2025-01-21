@@ -1,5 +1,5 @@
 # 🇦🇺AUASN Generated from https://bgp.he.net/country/AU
-# Updated at UTC 2025-01-20 08:13:31
+# Updated at UTC 2025-01-21 08:12:37
 # IPv6 Only
 # Total lines: 444
 # https://github.com/rnlo/ASN
@@ -57,11 +57,11 @@ IP-ASN,9519
 IP-ASN,18390
 IP-ASN,136001
 IP-ASN,9328
-IP-ASN,9297
 IP-ASN,7477
 IP-ASN,55555
 IP-ASN,17898
 IP-ASN,132528
+IP-ASN,9297
 IP-ASN,17559
 IP-ASN,134143
 IP-ASN,10143
