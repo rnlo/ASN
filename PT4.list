@@ -1,5 +1,5 @@
 # 🇵🇹PTASN Generated from https://bgp.he.net/country/PT
-# Updated at UTC 2025-01-25 08:13:20
+# Updated at UTC 2025-01-26 08:13:20
 # IPv4 Only
 # Total lines: 117
 # https://github.com/rnlo/ASN
@@ -20,9 +20,9 @@ IP-ASN,49941
 IP-ASN,29003
 IP-ASN,3243
 IP-ASN,201782
+IP-ASN,204094
 IP-ASN,12305
 IP-ASN,208457
-IP-ASN,204094
 IP-ASN,12833
 IP-ASN,49349
 IP-ASN,44222
