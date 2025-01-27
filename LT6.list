@@ -1,5 +1,5 @@
 # 🇱🇹LTASN Generated from https://bgp.he.net/country/LT
-# Updated at UTC 2025-01-26 08:12:44
+# Updated at UTC 2025-01-27 08:15:29
 # IPv6 Only
 # Total lines: 62
 # https://github.com/rnlo/ASN
@@ -22,8 +22,8 @@ IP-ASN,2847
 IP-ASN,62282
 IP-ASN,61272
 IP-ASN,21211
-IP-ASN,209605
 IP-ASN,51172
+IP-ASN,209605
 IP-ASN,15419
 IP-ASN,62179
 IP-ASN,201341
