@@ -1,7 +1,7 @@
 # 🇰🇪KEASN Generated from https://bgp.he.net/country/KE
-# Updated at UTC 2025-01-31 08:13:55
+# Updated at UTC 2025-02-01 08:12:46
 # IPv6 Only
-# Total lines: 54
+# Total lines: 55
 # https://github.com/rnlo/ASN
 IP-ASN,328977
 IP-ASN,37061
@@ -32,6 +32,7 @@ IP-ASN,329174
 IP-ASN,328835
 IP-ASN,328482
 IP-ASN,328162
+IP-ASN,37219
 IP-ASN,329437
 IP-ASN,329272
 IP-ASN,329177
