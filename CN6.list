@@ -1,7 +1,7 @@
 # 🇨🇳CNASN Generated from https://bgp.he.net/country/CN
-# Updated at UTC 2025-02-02 08:10:42
+# Updated at UTC 2025-02-03 08:13:09
 # IPv6 Only
-# Total lines: 4971
+# Total lines: 4972
 # https://github.com/rnlo/ASN
 IP-ASN,140731
 IP-ASN,24429
@@ -526,6 +526,7 @@ IP-ASN,199436
 IP-ASN,199392
 IP-ASN,199304
 IP-ASN,198527
+IP-ASN,198516
 IP-ASN,198266
 IP-ASN,198025
 IP-ASN,197626
