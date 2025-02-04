@@ -1,5 +1,5 @@
 # 🇸🇬SGASN Generated from https://bgp.he.net/country/SG
-# Updated at UTC 2025-02-03 08:14:35
+# Updated at UTC 2025-02-04 08:13:56
 # IPv6 Only
 # Total lines: 183
 # https://github.com/rnlo/ASN
@@ -44,9 +44,9 @@ IP-ASN,134148
 IP-ASN,7387
 IP-ASN,132829
 IP-ASN,7595
+IP-ASN,55518
 IP-ASN,141995
 IP-ASN,133959
-IP-ASN,55518
 IP-ASN,10024
 IP-ASN,9255
 IP-ASN,139883
