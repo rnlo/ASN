@@ -1,7 +1,7 @@
 # 🇮🇶IQASN Generated from https://bgp.he.net/country/IQ
-# Updated at UTC 2025-02-06 08:14:58
+# Updated at UTC 2025-02-07 08:14:46
 # IPv6 Only
-# Total lines: 38
+# Total lines: 37
 # https://github.com/rnlo/ASN
 IP-ASN,21277
 IP-ASN,208293
@@ -37,7 +37,6 @@ IP-ASN,51539
 IP-ASN,204249
 IP-ASN,3178
 IP-ASN,215160
-IP-ASN,214359
 IP-ASN,198589
 IP-ASN,215369
 IP-ASN,200179
