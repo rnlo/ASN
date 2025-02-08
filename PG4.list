@@ -1,7 +1,7 @@
 # 🇵🇬PGASN Generated from https://bgp.he.net/country/PG
-# Updated at UTC 2025-02-07 08:16:46
+# Updated at UTC 2025-02-08 08:15:23
 # IPv4 Only
-# Total lines: 26
+# Total lines: 27
 # https://github.com/rnlo/ASN
 IP-ASN,17828
 IP-ASN,139898
@@ -23,6 +23,7 @@ IP-ASN,139783
 IP-ASN,139778
 IP-ASN,138902
 IP-ASN,138519
+IP-ASN,137054
 IP-ASN,136940
 IP-ASN,136802
 IP-ASN,136587
