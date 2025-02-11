@@ -1,6 +1,6 @@
 # 🇬🇺GUASN Generated from https://bgp.he.net/country/GU
-# Updated at UTC 2025-02-10 08:20:03
-# Total lines: 7
+# Updated at UTC 2025-02-11 08:18:39
+# Total lines: 8
 # https://github.com/rnlo/ASN
 IP-ASN,3605
 IP-ASN,9246
@@ -8,4 +8,5 @@ IP-ASN,1955
 IP-ASN,395400
 IP-ASN,17456
 IP-ASN,23676
+IP-ASN,56200
 IP-ASN,152735

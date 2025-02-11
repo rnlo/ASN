@@ -1,5 +1,5 @@
 # 🇹🇭THASN Generated from https://bgp.he.net/country/TH
-# Updated at UTC 2025-02-10 08:14:30
+# Updated at UTC 2025-02-11 08:13:43
 # Total lines: 455
 # https://github.com/rnlo/ASN
 IP-ASN,4651
@@ -58,7 +58,6 @@ IP-ASN,136523
 IP-ASN,135419
 IP-ASN,132300
 IP-ASN,56067
-IP-ASN,55554
 IP-ASN,4776
 IP-ASN,45806
 IP-ASN,17887
@@ -79,6 +78,7 @@ IP-ASN,9411
 IP-ASN,9335
 IP-ASN,7630
 IP-ASN,56309
+IP-ASN,55554
 IP-ASN,4762
 IP-ASN,45581
 IP-ASN,24190
