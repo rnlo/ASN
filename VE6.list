@@ -1,7 +1,7 @@
 # 🇻🇪VEASN Generated from https://bgp.he.net/country/VE
-# Updated at UTC 2025-02-19 08:15:40
+# Updated at UTC 2025-02-20 08:15:02
 # IPv6 Only
-# Total lines: 93
+# Total lines: 94
 # https://github.com/rnlo/ASN
 IP-ASN,61461
 IP-ASN,267809
@@ -9,6 +9,7 @@ IP-ASN,266809
 IP-ASN,272102
 IP-ASN,21826
 IP-ASN,263703
+IP-ASN,8048
 IP-ASN,27717
 IP-ASN,269832
 IP-ASN,8053
