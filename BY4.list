@@ -1,5 +1,5 @@
 # 🇧🇾BYASN Generated from https://bgp.he.net/country/BY
-# Updated at UTC 2025-02-21 08:15:16
+# Updated at UTC 2025-02-22 08:14:00
 # IPv4 Only
 # Total lines: 106
 # https://github.com/rnlo/ASN
@@ -32,7 +32,6 @@ IP-ASN,51365
 IP-ASN,50929
 IP-ASN,50685
 IP-ASN,50176
-IP-ASN,49091
 IP-ASN,44397
 IP-ASN,44288
 IP-ASN,41245
@@ -78,6 +77,7 @@ IP-ASN,49711
 IP-ASN,49682
 IP-ASN,49526
 IP-ASN,49243
+IP-ASN,49091
 IP-ASN,48340
 IP-ASN,48107
 IP-ASN,44272
