@@ -1,11 +1,10 @@
 # 🇰🇾KYASN Generated from https://bgp.he.net/country/KY
-# Updated at UTC 2025-02-23 08:17:32
+# Updated at UTC 2025-02-24 08:20:11
 # IPv4 Only
 # Total lines: 10
 # https://github.com/rnlo/ASN
 IP-ASN,36549
 IP-ASN,397343
-IP-ASN,16437
 IP-ASN,13771
 IP-ASN,6639
 IP-ASN,398831
@@ -13,3 +12,4 @@ IP-ASN,398132
 IP-ASN,3402
 IP-ASN,21744
 IP-ASN,16705
+IP-ASN,16437
