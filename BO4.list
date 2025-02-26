@@ -1,5 +1,5 @@
 # 🇧🇴BOASN Generated from https://bgp.he.net/country/BO
-# Updated at UTC 2025-02-25 08:16:43
+# Updated at UTC 2025-02-26 08:17:19
 # IPv4 Only
 # Total lines: 49
 # https://github.com/rnlo/ASN
@@ -34,6 +34,7 @@ IP-ASN,266671
 IP-ASN,265779
 IP-ASN,265756
 IP-ASN,264612
+IP-ASN,204655
 IP-ASN,61475
 IP-ASN,61458
 IP-ASN,27828
@@ -51,4 +52,3 @@ IP-ASN,264747
 IP-ASN,264690
 IP-ASN,263709
 IP-ASN,262159
-IP-ASN,204655
