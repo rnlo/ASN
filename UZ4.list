@@ -1,7 +1,7 @@
 # 🇺🇿UZASN Generated from https://bgp.he.net/country/UZ
-# Updated at UTC 2025-02-27 08:16:16
+# Updated at UTC 2025-02-28 08:16:06
 # IPv4 Only
-# Total lines: 89
+# Total lines: 90
 # https://github.com/rnlo/ASN
 IP-ASN,28910
 IP-ASN,34250
@@ -56,6 +56,7 @@ IP-ASN,41177
 IP-ASN,39231
 IP-ASN,39032
 IP-ASN,35682
+IP-ASN,35326
 IP-ASN,31203
 IP-ASN,29385
 IP-ASN,25389
