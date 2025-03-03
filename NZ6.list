@@ -1,5 +1,5 @@
 # 🇳🇿NZASN Generated from https://bgp.he.net/country/NZ
-# Updated at UTC 2025-03-02 08:12:24
+# Updated at UTC 2025-03-03 08:15:25
 # IPv6 Only
 # Total lines: 157
 # https://github.com/rnlo/ASN
@@ -81,6 +81,7 @@ IP-ASN,141413
 IP-ASN,138189
 IP-ASN,136524
 IP-ASN,133043
+IP-ASN,9432
 IP-ASN,61025
 IP-ASN,55857
 IP-ASN,45641
@@ -97,7 +98,6 @@ IP-ASN,133729
 IP-ASN,133499
 IP-ASN,133090
 IP-ASN,9889
-IP-ASN,9432
 IP-ASN,9431
 IP-ASN,681
 IP-ASN,58631
