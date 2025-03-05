@@ -1,7 +1,7 @@
 # 🇨🇷CRASN Generated from https://bgp.he.net/country/CR
-# Updated at UTC 2025-03-04 08:15:27
+# Updated at UTC 2025-03-05 08:16:30
 # IPv6 Only
-# Total lines: 38
+# Total lines: 39
 # https://github.com/rnlo/ASN
 IP-ASN,27908
 IP-ASN,262197
@@ -32,6 +32,7 @@ IP-ASN,263749
 IP-ASN,262252
 IP-ASN,262149
 IP-ASN,262145
+IP-ASN,52470
 IP-ASN,52392
 IP-ASN,273147
 IP-ASN,271889
