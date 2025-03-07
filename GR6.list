@@ -1,7 +1,7 @@
 # 🇬🇷GRASN Generated from https://bgp.he.net/country/GR
-# Updated at UTC 2025-03-06 08:15:24
+# Updated at UTC 2025-03-07 08:15:04
 # IPv6 Only
-# Total lines: 81
+# Total lines: 80
 # https://github.com/rnlo/ASN
 IP-ASN,197580
 IP-ASN,12713
@@ -50,7 +50,6 @@ IP-ASN,47180
 IP-ASN,34516
 IP-ASN,31563
 IP-ASN,212337
-IP-ASN,208108
 IP-ASN,199370
 IP-ASN,9069
 IP-ASN,8762
