@@ -1,7 +1,7 @@
 # 🇹🇹TTASN Generated from https://bgp.he.net/country/TT
-# Updated at UTC 2025-03-21 08:19:39
+# Updated at UTC 2025-03-22 08:17:35
 # IPv6 Only
-# Total lines: 11
+# Total lines: 10
 # https://github.com/rnlo/ASN
 IP-ASN,27665
 IP-ASN,5639
@@ -11,6 +11,5 @@ IP-ASN,264811
 IP-ASN,27800
 IP-ASN,61478
 IP-ASN,28067
-IP-ASN,274008
 IP-ASN,270040
 IP-ASN,263222

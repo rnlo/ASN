@@ -1,7 +1,7 @@
 # 🇩🇴DOASN Generated from https://bgp.he.net/country/DO
-# Updated at UTC 2025-03-21 08:16:46
+# Updated at UTC 2025-03-22 08:14:43
 # IPv6 Only
-# Total lines: 117
+# Total lines: 118
 # https://github.com/rnlo/ASN
 IP-ASN,64126
 IP-ASN,269931
@@ -110,6 +110,7 @@ IP-ASN,271916
 IP-ASN,271898
 IP-ASN,271806
 IP-ASN,271804
+IP-ASN,270098
 IP-ASN,269983
 IP-ASN,269921
 IP-ASN,269908
