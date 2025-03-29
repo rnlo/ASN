@@ -1,7 +1,7 @@
 # 🇲🇪MEASN Generated from https://bgp.he.net/country/ME
-# Updated at UTC 2025-03-28 08:18:04
+# Updated at UTC 2025-03-29 08:16:39
 # IPv6 Only
-# Total lines: 6
+# Total lines: 7
 # https://github.com/rnlo/ASN
 IP-ASN,43940
 IP-ASN,15397
@@ -9,3 +9,4 @@ IP-ASN,8585
 IP-ASN,40981
 IP-ASN,211211
 IP-ASN,47451
+IP-ASN,203879
