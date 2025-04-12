@@ -1,5 +1,5 @@
 # 🇵🇸PSASN Generated from https://bgp.he.net/country/PS
-# Updated at UTC 2025-04-11 08:17:06
+# Updated at UTC 2025-04-12 08:15:20
 # IPv4 Only
 # Total lines: 42
 # https://github.com/rnlo/ASN
@@ -14,6 +14,7 @@ IP-ASN,197350
 IP-ASN,52145
 IP-ASN,48270
 IP-ASN,47546
+IP-ASN,47253
 IP-ASN,42506
 IP-ASN,35385
 IP-ASN,215886
@@ -30,7 +31,6 @@ IP-ASN,56995
 IP-ASN,51737
 IP-ASN,51440
 IP-ASN,50330
-IP-ASN,47253
 IP-ASN,47154
 IP-ASN,44213
 IP-ASN,42314
