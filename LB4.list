@@ -1,5 +1,5 @@
 # 🇱🇧LBASN Generated from https://bgp.he.net/country/LB
-# Updated at UTC 2025-04-18 08:16:16
+# Updated at UTC 2025-04-19 08:14:27
 # IPv4 Only
 # Total lines: 142
 # https://github.com/rnlo/ASN
@@ -12,6 +12,7 @@ IP-ASN,41833
 IP-ASN,39918
 IP-ASN,59989
 IP-ASN,48847
+IP-ASN,205423
 IP-ASN,57914
 IP-ASN,49020
 IP-ASN,43056
@@ -20,7 +21,6 @@ IP-ASN,3176
 IP-ASN,31037
 IP-ASN,206472
 IP-ASN,206406
-IP-ASN,205423
 IP-ASN,64443
 IP-ASN,60524
 IP-ASN,60372
