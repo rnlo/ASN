@@ -1,5 +1,5 @@
 # 🇵🇭PHASN Generated from https://bgp.he.net/country/PH
-# Updated at UTC 2025-04-19 08:13:14
+# Updated at UTC 2025-04-20 08:13:22
 # IPv6 Only
 # Total lines: 128
 # https://github.com/rnlo/ASN
@@ -32,10 +32,10 @@ IP-ASN,132046
 IP-ASN,18233
 IP-ASN,151354
 IP-ASN,56262
-IP-ASN,152107
 IP-ASN,139749
 IP-ASN,137996
 IP-ASN,7629
+IP-ASN,152107
 IP-ASN,55547
 IP-ASN,142285
 IP-ASN,136515
