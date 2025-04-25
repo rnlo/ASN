@@ -1,7 +1,7 @@
 # 🇧🇲BMASN Generated from https://bgp.he.net/country/BM
-# Updated at UTC 2025-04-24 08:19:57
+# Updated at UTC 2025-04-25 08:20:02
 # IPv4 Only
-# Total lines: 14
+# Total lines: 13
 # https://github.com/rnlo/ASN
 IP-ASN,11269
 IP-ASN,3855
@@ -14,6 +14,5 @@ IP-ASN,23313
 IP-ASN,21958
 IP-ASN,16413
 IP-ASN,55159
-IP-ASN,395705
 IP-ASN,394478
 IP-ASN,10388

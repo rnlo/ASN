@@ -1,5 +1,5 @@
 # 🇿🇲ZMASN Generated from https://bgp.he.net/country/ZM
-# Updated at UTC 2025-04-24 08:19:29
+# Updated at UTC 2025-04-25 08:19:35
 # IPv4 Only
 # Total lines: 19
 # https://github.com/rnlo/ASN
@@ -8,6 +8,7 @@ IP-ASN,36962
 IP-ASN,7420
 IP-ASN,37532
 IP-ASN,37287
+IP-ASN,37185
 IP-ASN,36959
 IP-ASN,329444
 IP-ASN,329105
@@ -16,7 +17,6 @@ IP-ASN,328646
 IP-ASN,328570
 IP-ASN,328420
 IP-ASN,328194
-IP-ASN,37185
 IP-ASN,37146
 IP-ASN,329383
 IP-ASN,328817
