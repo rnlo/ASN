@@ -1,7 +1,7 @@
 # 🇳🇮NIASN Generated from https://bgp.he.net/country/NI
-# Updated at UTC 2025-05-06 08:19:20
+# Updated at UTC 2025-05-07 08:19:46
 # IPv6 Only
-# Total lines: 10
+# Total lines: 9
 # https://github.com/rnlo/ASN
 IP-ASN,27742
 IP-ASN,18840
@@ -12,4 +12,3 @@ IP-ASN,264609
 IP-ASN,263765
 IP-ASN,263751
 IP-ASN,52242
-IP-ASN,271938
