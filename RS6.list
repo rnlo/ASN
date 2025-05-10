@@ -1,5 +1,5 @@
 # 🇷🇸RSASN Generated from https://bgp.he.net/country/RS
-# Updated at UTC 2025-05-09 08:16:42
+# Updated at UTC 2025-05-10 08:14:47
 # IPv6 Only
 # Total lines: 32
 # https://github.com/rnlo/ASN
@@ -19,9 +19,9 @@ IP-ASN,47267
 IP-ASN,51859
 IP-ASN,208398
 IP-ASN,13092
+IP-ASN,43608
 IP-ASN,43191
 IP-ASN,35779
-IP-ASN,43608
 IP-ASN,201236
 IP-ASN,39724
 IP-ASN,216024
