@@ -1,5 +1,5 @@
 # 🇦🇹ATASN Generated from https://bgp.he.net/country/AT
-# Updated at UTC 2025-05-11 08:13:49
+# Updated at UTC 2025-05-12 08:16:21
 # IPv6 Only
 # Total lines: 295
 # https://github.com/rnlo/ASN
@@ -62,7 +62,6 @@ IP-ASN,35339
 IP-ASN,12401
 IP-ASN,60587
 IP-ASN,50226
-IP-ASN,62363
 IP-ASN,211510
 IP-ASN,62373
 IP-ASN,34183
@@ -84,6 +83,7 @@ IP-ASN,49322
 IP-ASN,60823
 IP-ASN,212131
 IP-ASN,60274
+IP-ASN,62363
 IP-ASN,48339
 IP-ASN,35052
 IP-ASN,12762
