@@ -1,12 +1,13 @@
 # 🇱🇾LYASN Generated from https://bgp.he.net/country/LY
-# Updated at UTC 2025-05-14 08:19:07
+# Updated at UTC 2025-05-15 08:19:50
 # IPv6 Only
-# Total lines: 7
+# Total lines: 8
 # https://github.com/rnlo/ASN
 IP-ASN,37558
 IP-ASN,37284
-IP-ASN,328073
 IP-ASN,21003
+IP-ASN,328073
 IP-ASN,329090
 IP-ASN,329263
 IP-ASN,328619
+IP-ASN,328200
