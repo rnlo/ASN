@@ -1,5 +1,5 @@
 # 🇱🇰LKASN Generated from https://bgp.he.net/country/LK
-# Updated at UTC 2025-05-30 08:20:06
+# Updated at UTC 2025-05-31 08:18:25
 # IPv4 Only
 # Total lines: 21
 # https://github.com/rnlo/ASN
@@ -8,9 +8,9 @@ IP-ASN,18001
 IP-ASN,45356
 IP-ASN,9329
 IP-ASN,5087
-IP-ASN,132447
 IP-ASN,38229
 IP-ASN,134824
+IP-ASN,132447
 IP-ASN,132124
 IP-ASN,17470
 IP-ASN,152325
