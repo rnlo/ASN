@@ -1,5 +1,5 @@
 # 🇦🇪AEASN Generated from https://bgp.he.net/country/AE
-# Updated at UTC 2025-06-20 08:18:13
+# Updated at UTC 2025-06-21 08:15:42
 # IPv4 Only
 # Total lines: 111
 # https://github.com/rnlo/ASN
@@ -31,6 +31,7 @@ IP-ASN,208006
 IP-ASN,202670
 IP-ASN,60140
 IP-ASN,57511
+IP-ASN,57000
 IP-ASN,50710
 IP-ASN,49832
 IP-ASN,44947
@@ -41,7 +42,6 @@ IP-ASN,208278
 IP-ASN,201340
 IP-ASN,61330
 IP-ASN,61137
-IP-ASN,57000
 IP-ASN,51182
 IP-ASN,50811
 IP-ASN,48631
