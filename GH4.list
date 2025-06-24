@@ -1,5 +1,5 @@
 # 🇬🇭GHASN Generated from https://bgp.he.net/country/GH
-# Updated at UTC 2025-06-23 08:19:07
+# Updated at UTC 2025-06-24 08:18:37
 # IPv4 Only
 # Total lines: 90
 # https://github.com/rnlo/ASN
@@ -11,12 +11,12 @@ IP-ASN,327992
 IP-ASN,35091
 IP-ASN,30997
 IP-ASN,30986
-IP-ASN,328659
 IP-ASN,37350
 IP-ASN,329009
 IP-ASN,328842
-IP-ASN,37030
 IP-ASN,328797
+IP-ASN,328659
+IP-ASN,37030
 IP-ASN,37012
 IP-ASN,329176
 IP-ASN,29340
