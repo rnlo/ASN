@@ -1,7 +1,7 @@
 # 🇲🇦MAASN Generated from https://bgp.he.net/country/MA
-# Updated at UTC 2025-07-02 08:20:41
+# Updated at UTC 2025-07-03 08:20:18
 # IPv6 Only
-# Total lines: 15
+# Total lines: 16
 # https://github.com/rnlo/ASN
 IP-ASN,37738
 IP-ASN,36925
@@ -9,6 +9,7 @@ IP-ASN,6713
 IP-ASN,36884
 IP-ASN,328066
 IP-ASN,329442
+IP-ASN,328541
 IP-ASN,328272
 IP-ASN,328055
 IP-ASN,30983
