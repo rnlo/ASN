@@ -1,7 +1,7 @@
 # 🇲🇿MZASN Generated from https://bgp.he.net/country/MZ
-# Updated at UTC 2025-07-17 08:20:32
+# Updated at UTC 2025-07-18 08:19:53
 # IPv4 Only
-# Total lines: 27
+# Total lines: 28
 # https://github.com/rnlo/ASN
 IP-ASN,37697
 IP-ASN,37342
@@ -23,6 +23,7 @@ IP-ASN,328460
 IP-ASN,328274
 IP-ASN,37489
 IP-ASN,37477
+IP-ASN,329533
 IP-ASN,329516
 IP-ASN,329491
 IP-ASN,329310
