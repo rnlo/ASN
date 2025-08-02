@@ -1,5 +1,5 @@
 # 🇨🇮CIASN Generated from https://bgp.he.net/country/CI
-# Updated at UTC 2025-08-01 08:20:44
+# Updated at UTC 2025-08-02 08:18:30
 # IPv4 Only
 # Total lines: 20
 # https://github.com/rnlo/ASN
@@ -12,6 +12,7 @@ IP-ASN,327773
 IP-ASN,36946
 IP-ASN,328729
 IP-ASN,328355
+IP-ASN,327974
 IP-ASN,329586
 IP-ASN,329372
 IP-ASN,329037
@@ -20,6 +21,5 @@ IP-ASN,328809
 IP-ASN,328290
 IP-ASN,328193
 IP-ASN,328025
-IP-ASN,327974
 IP-ASN,327746
 IP-ASN,327710
