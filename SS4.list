@@ -1,7 +1,7 @@
 # 🇸🇸SSASN Generated from https://bgp.he.net/country/SS
-# Updated at UTC 2025-08-08 08:21:40
+# Updated at UTC 2025-08-09 08:19:15
 # IPv4 Only
-# Total lines: 18
+# Total lines: 19
 # https://github.com/rnlo/ASN
 IP-ASN,328605
 IP-ASN,37406
@@ -13,6 +13,7 @@ IP-ASN,328610
 IP-ASN,328535
 IP-ASN,37594
 IP-ASN,37584
+IP-ASN,329446
 IP-ASN,329168
 IP-ASN,329020
 IP-ASN,328708
