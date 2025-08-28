@@ -1,7 +1,7 @@
 # 🇳🇨NCASN Generated from https://bgp.he.net/country/NC
-# Updated at UTC 2025-08-27 08:19:35
+# Updated at UTC 2025-08-28 08:19:54
 # IPv6 Only
-# Total lines: 11
+# Total lines: 12
 # https://github.com/rnlo/ASN
 IP-ASN,18200
 IP-ASN,56055
@@ -14,3 +14,4 @@ IP-ASN,141197
 IP-ASN,140718
 IP-ASN,136402
 IP-ASN,134405
+IP-ASN,131248
