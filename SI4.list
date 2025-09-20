@@ -1,5 +1,5 @@
 # 🇸🇮SIASN Generated from https://bgp.he.net/country/SI
-# Updated at UTC 2025-09-19 08:16:07
+# Updated at UTC 2025-09-20 08:14:15
 # IPv4 Only
 # Total lines: 257
 # https://github.com/rnlo/ASN
@@ -18,9 +18,9 @@ IP-ASN,5435
 IP-ASN,41427
 IP-ASN,44549
 IP-ASN,42207
-IP-ASN,43128
 IP-ASN,200325
 IP-ASN,12778
+IP-ASN,43128
 IP-ASN,198213
 IP-ASN,6764
 IP-ASN,2107
