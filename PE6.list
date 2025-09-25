@@ -1,7 +1,7 @@
 # 🇵🇪PEASN Generated from https://bgp.he.net/country/PE
-# Updated at UTC 2025-09-24 08:17:25
+# Updated at UTC 2025-09-25 08:16:50
 # IPv6 Only
-# Total lines: 114
+# Total lines: 115
 # https://github.com/rnlo/ASN
 IP-ASN,262253
 IP-ASN,21575
@@ -42,6 +42,7 @@ IP-ASN,271868
 IP-ASN,273000
 IP-ASN,272816
 IP-ASN,272059
+IP-ASN,271876
 IP-ASN,270086
 IP-ASN,270082
 IP-ASN,264783
