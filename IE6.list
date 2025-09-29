@@ -1,5 +1,5 @@
 # 🇮🇪IEASN Generated from https://bgp.he.net/country/IE
-# Updated at UTC 2025-09-28 08:13:51
+# Updated at UTC 2025-09-29 08:17:58
 # IPv6 Only
 # Total lines: 90
 # https://github.com/rnlo/ASN
@@ -33,6 +33,7 @@ IP-ASN,39319
 IP-ASN,15806
 IP-ASN,47942
 IP-ASN,43515
+IP-ASN,30900
 IP-ASN,212312
 IP-ASN,206723
 IP-ASN,200562
@@ -52,7 +53,6 @@ IP-ASN,31128
 IP-ASN,211054
 IP-ASN,198260
 IP-ASN,56638
-IP-ASN,30900
 IP-ASN,29650
 IP-ASN,214611
 IP-ASN,214609
