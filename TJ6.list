@@ -1,5 +1,5 @@
 # 🇹🇯TJASN Generated from https://bgp.he.net/country/TJ
-# Updated at UTC 2025-10-14 08:17:58
+# Updated at UTC 2025-10-15 08:19:54
 # IPv6 Only
 # Total lines: 8
 # https://github.com/rnlo/ASN
@@ -8,6 +8,6 @@ IP-ASN,43197
 IP-ASN,24722
 IP-ASN,47139
 IP-ASN,48887
+IP-ASN,208536
 IP-ASN,204106
 IP-ASN,43030
-IP-ASN,208536
