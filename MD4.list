@@ -1,5 +1,5 @@
 # 🇲🇩MDASN Generated from https://bgp.he.net/country/MD
-# Updated at UTC 2025-10-25 08:14:34
+# Updated at UTC 2025-10-26 08:15:23
 # IPv4 Only
 # Total lines: 121
 # https://github.com/rnlo/ASN
@@ -20,8 +20,8 @@ IP-ASN,50084
 IP-ASN,48480
 IP-ASN,62013
 IP-ASN,35346
-IP-ASN,60514
 IP-ASN,44477
+IP-ASN,60514
 IP-ASN,25129
 IP-ASN,51056
 IP-ASN,48506
