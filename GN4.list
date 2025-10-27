@@ -1,7 +1,7 @@
 # 🇬🇳GNASN Generated from https://bgp.he.net/country/GN
-# Updated at UTC 2025-10-26 08:18:39
+# Updated at UTC 2025-10-27 08:21:31
 # IPv4 Only
-# Total lines: 15
+# Total lines: 16
 # https://github.com/rnlo/ASN
 IP-ASN,328107
 IP-ASN,37461
@@ -13,6 +13,7 @@ IP-ASN,328899
 IP-ASN,37430
 IP-ASN,37427
 IP-ASN,37141
+IP-ASN,329594
 IP-ASN,329509
 IP-ASN,329293
 IP-ASN,328923
