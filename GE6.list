@@ -1,7 +1,7 @@
 # 🇬🇪GEASN Generated from https://bgp.he.net/country/GE
-# Updated at UTC 2025-10-28 08:17:44
+# Updated at UTC 2025-10-29 08:17:58
 # IPv6 Only
-# Total lines: 24
+# Total lines: 25
 # https://github.com/rnlo/ASN
 IP-ASN,198150
 IP-ASN,35805
@@ -15,6 +15,7 @@ IP-ASN,50053
 IP-ASN,212318
 IP-ASN,21214
 IP-ASN,20545
+IP-ASN,51142
 IP-ASN,216300
 IP-ASN,215546
 IP-ASN,21276
