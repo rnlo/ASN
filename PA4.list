@@ -1,5 +1,5 @@
 # 🇵🇦PAASN Generated from https://bgp.he.net/country/PA
-# Updated at UTC 2025-11-08 08:15:35
+# Updated at UTC 2025-11-09 08:14:56
 # IPv4 Only
 # Total lines: 95
 # https://github.com/rnlo/ASN
@@ -34,6 +34,7 @@ IP-ASN,22010
 IP-ASN,21599
 IP-ASN,14709
 IP-ASN,6193
+IP-ASN,52446
 IP-ASN,52437
 IP-ASN,52284
 IP-ASN,48721
@@ -62,7 +63,6 @@ IP-ASN,10476
 IP-ASN,64107
 IP-ASN,60010
 IP-ASN,52469
-IP-ASN,52446
 IP-ASN,52337
 IP-ASN,52264
 IP-ASN,51852
