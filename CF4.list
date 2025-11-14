@@ -1,8 +1,9 @@
 # 🇨🇫CFASN Generated from https://bgp.he.net/country/CF
-# Updated at UTC 2025-11-13 08:23:00
+# Updated at UTC 2025-11-14 08:23:32
 # IPv4 Only
-# Total lines: 3
+# Total lines: 4
 # https://github.com/rnlo/ASN
 IP-ASN,37460
 IP-ASN,328079
+IP-ASN,329590
 IP-ASN,329274
