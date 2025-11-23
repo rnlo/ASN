@@ -1,7 +1,7 @@
 # 🇻🇳VNASN Generated from https://bgp.he.net/country/VN
-# Updated at UTC 2025-11-22 08:14:40
+# Updated at UTC 2025-11-23 08:15:05
 # IPv6 Only
-# Total lines: 252
+# Total lines: 253
 # https://github.com/rnlo/ASN
 IP-ASN,18403
 IP-ASN,45899
@@ -237,6 +237,7 @@ IP-ASN,131366
 IP-ASN,131349
 IP-ASN,205927
 IP-ASN,200250
+IP-ASN,154350
 IP-ASN,153439
 IP-ASN,152999
 IP-ASN,152975

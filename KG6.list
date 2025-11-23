@@ -1,5 +1,5 @@
 # 🇰🇬KGASN Generated from https://bgp.he.net/country/KG
-# Updated at UTC 2025-11-22 08:17:35
+# Updated at UTC 2025-11-23 08:17:49
 # IPv6 Only
 # Total lines: 11
 # https://github.com/rnlo/ASN
@@ -7,9 +7,9 @@ IP-ASN,8449
 IP-ASN,61010
 IP-ASN,50053
 IP-ASN,41750
-IP-ASN,12997
 IP-ASN,61399
 IP-ASN,47237
+IP-ASN,12997
 IP-ASN,8511
 IP-ASN,39036
 IP-ASN,50251
