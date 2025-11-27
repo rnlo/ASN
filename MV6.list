@@ -1,7 +1,7 @@
 # 🇲🇻MVASN Generated from https://bgp.he.net/country/MV
-# Updated at UTC 2025-11-26 08:21:27
+# Updated at UTC 2025-11-27 08:22:23
 # IPv6 Only
-# Total lines: 9
+# Total lines: 8
 # https://github.com/rnlo/ASN
 IP-ASN,7642
 IP-ASN,55944
@@ -10,5 +10,4 @@ IP-ASN,24016
 IP-ASN,150125
 IP-ASN,133742
 IP-ASN,136238
-IP-ASN,24082
 IP-ASN,216469

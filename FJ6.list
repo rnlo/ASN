@@ -1,8 +1,9 @@
 # 🇫🇯FJASN Generated from https://bgp.he.net/country/FJ
-# Updated at UTC 2025-11-26 08:21:08
+# Updated at UTC 2025-11-27 08:22:04
 # IPv6 Only
-# Total lines: 3
+# Total lines: 4
 # https://github.com/rnlo/ASN
 IP-ASN,38442
+IP-ASN,45349
 IP-ASN,45355
 IP-ASN,24390
