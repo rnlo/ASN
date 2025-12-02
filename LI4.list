@@ -1,5 +1,5 @@
 # 🇱🇮LIASN Generated from https://bgp.he.net/country/LI
-# Updated at UTC 2025-12-01 08:23:20
+# Updated at UTC 2025-12-02 08:22:35
 # IPv4 Only
 # Total lines: 25
 # https://github.com/rnlo/ASN
@@ -13,6 +13,7 @@ IP-ASN,42162
 IP-ASN,206478
 IP-ASN,59748
 IP-ASN,15955
+IP-ASN,61150
 IP-ASN,56653
 IP-ASN,49652
 IP-ASN,48576
@@ -25,6 +26,5 @@ IP-ASN,204342
 IP-ASN,202908
 IP-ASN,202405
 IP-ASN,13190
-IP-ASN,61150
 IP-ASN,35535
 IP-ASN,211493
