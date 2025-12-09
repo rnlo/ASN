@@ -1,5 +1,5 @@
 # 🇱🇺LUASN Generated from https://bgp.he.net/country/LU
-# Updated at UTC 2025-12-08 08:21:14
+# Updated at UTC 2025-12-09 08:20:06
 # IPv6 Only
 # Total lines: 61
 # https://github.com/rnlo/ASN
@@ -15,12 +15,12 @@ IP-ASN,198290
 IP-ASN,197692
 IP-ASN,2602
 IP-ASN,9008
-IP-ASN,24611
 IP-ASN,204403
 IP-ASN,60497
 IP-ASN,44295
 IP-ASN,200129
 IP-ASN,213216
+IP-ASN,24611
 IP-ASN,60391
 IP-ASN,208374
 IP-ASN,206610
