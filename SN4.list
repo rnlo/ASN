@@ -1,7 +1,7 @@
 # 🇸🇳SNASN Generated from https://bgp.he.net/country/SN
-# Updated at UTC 2025-12-23 08:22:53
+# Updated at UTC 2025-12-24 08:22:37
 # IPv4 Only
-# Total lines: 10
+# Total lines: 11
 # https://github.com/rnlo/ASN
 IP-ASN,8346
 IP-ASN,37288
@@ -10,6 +10,7 @@ IP-ASN,37196
 IP-ASN,328650
 IP-ASN,328148
 IP-ASN,328558
+IP-ASN,329650
 IP-ASN,329161
 IP-ASN,328259
 IP-ASN,327809
