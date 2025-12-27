@@ -1,7 +1,7 @@
 # 🇩🇰DKASN Generated from https://bgp.he.net/country/DK
-# Updated at UTC 2025-12-26 08:17:30
+# Updated at UTC 2025-12-27 08:16:13
 # IPv6 Only
-# Total lines: 162
+# Total lines: 163
 # https://github.com/rnlo/ASN
 IP-ASN,42541
 IP-ASN,31027
@@ -112,6 +112,7 @@ IP-ASN,3240
 IP-ASN,29156
 IP-ASN,28717
 IP-ASN,216313
+IP-ASN,215686
 IP-ASN,215052
 IP-ASN,214980
 IP-ASN,213693
