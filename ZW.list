@@ -1,12 +1,12 @@
 # 🇿🇼ZWASN Generated from https://bgp.he.net/country/ZW
-# Updated at UTC 2026-01-06 08:22:08
-# Total lines: 28
+# Updated at UTC 2026-01-07 08:21:45
+# Total lines: 29
 # https://github.com/rnlo/ASN
 IP-ASN,37204
 IP-ASN,37183
 IP-ASN,329006
-IP-ASN,37329
 IP-ASN,37184
+IP-ASN,37329
 IP-ASN,31856
 IP-ASN,37568
 IP-ASN,37332
@@ -30,3 +30,4 @@ IP-ASN,328269
 IP-ASN,328230
 IP-ASN,327971
 IP-ASN,327863
+IP-ASN,21144
