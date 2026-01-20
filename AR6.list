@@ -1,7 +1,7 @@
 # 🇦🇷ARASN Generated from https://bgp.he.net/country/AR
-# Updated at UTC 2026-01-19 08:20:23
+# Updated at UTC 2026-01-20 08:19:17
 # IPv6 Only
-# Total lines: 371
+# Total lines: 372
 # https://github.com/rnlo/ASN
 IP-ASN,7049
 IP-ASN,7303
@@ -196,6 +196,7 @@ IP-ASN,266668
 IP-ASN,266666
 IP-ASN,265884
 IP-ASN,265844
+IP-ASN,265843
 IP-ASN,265817
 IP-ASN,265768
 IP-ASN,265731
