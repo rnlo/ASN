@@ -1,5 +1,5 @@
 # 🇸🇨SCASN Generated from https://bgp.he.net/country/SC
-# Updated at UTC 2026-01-24 08:18:12
+# Updated at UTC 2026-01-25 08:18:35
 # IPv6 Only
 # Total lines: 23
 # https://github.com/rnlo/ASN
@@ -8,12 +8,12 @@ IP-ASN,60326
 IP-ASN,213373
 IP-ASN,202425
 IP-ASN,36958
+IP-ASN,213438
 IP-ASN,37740
 IP-ASN,328543
-IP-ASN,213438
 IP-ASN,216213
-IP-ASN,328383
 IP-ASN,47464
+IP-ASN,328383
 IP-ASN,204615
 IP-ASN,133772
 IP-ASN,43180
