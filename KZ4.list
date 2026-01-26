@@ -1,7 +1,7 @@
 # 🇰🇿KZASN Generated from https://bgp.he.net/country/KZ
-# Updated at UTC 2026-01-25 08:17:38
+# Updated at UTC 2026-01-26 08:21:29
 # IPv4 Only
-# Total lines: 199
+# Total lines: 200
 # https://github.com/rnlo/ASN
 IP-ASN,9198
 IP-ASN,41798
@@ -196,6 +196,7 @@ IP-ASN,205431
 IP-ASN,205231
 IP-ASN,204804
 IP-ASN,203886
+IP-ASN,203534
 IP-ASN,203530
 IP-ASN,202527
 IP-ASN,201817
