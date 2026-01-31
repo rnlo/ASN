@@ -1,13 +1,13 @@
 # 🇳🇨NCASN Generated from https://bgp.he.net/country/NC
-# Updated at UTC 2026-01-30 08:30:53
+# Updated at UTC 2026-01-31 08:21:45
 # IPv6 Only
 # Total lines: 12
 # https://github.com/rnlo/ASN
 IP-ASN,18200
 IP-ASN,56055
+IP-ASN,45345
 IP-ASN,56089
 IP-ASN,45461
-IP-ASN,45345
 IP-ASN,17480
 IP-ASN,147030
 IP-ASN,141197
