@@ -1,7 +1,7 @@
 # 🇦🇿AZASN Generated from https://bgp.he.net/country/AZ
-# Updated at UTC 2026-02-08 08:23:03
+# Updated at UTC 2026-02-09 08:41:29
 # IPv4 Only
-# Total lines: 84
+# Total lines: 85
 # https://github.com/rnlo/ASN
 IP-ASN,29049
 IP-ASN,196925
@@ -64,6 +64,7 @@ IP-ASN,215284
 IP-ASN,215148
 IP-ASN,215076
 IP-ASN,213881
+IP-ASN,213670
 IP-ASN,213402
 IP-ASN,213398
 IP-ASN,213328
