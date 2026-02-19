@@ -1,5 +1,5 @@
 # 🇱🇷LRASN Generated from https://bgp.he.net/country/LR
-# Updated at UTC 2026-02-18 08:40:41
+# Updated at UTC 2026-02-19 08:39:35
 # Total lines: 14
 # https://github.com/rnlo/ASN
 IP-ASN,328196
@@ -7,7 +7,6 @@ IP-ASN,37094
 IP-ASN,37580
 IP-ASN,328136
 IP-ASN,329082
-IP-ASN,328549
 IP-ASN,207269
 IP-ASN,37715
 IP-ASN,37410
@@ -15,4 +14,5 @@ IP-ASN,37203
 IP-ASN,329525
 IP-ASN,329496
 IP-ASN,328595
+IP-ASN,328549
 IP-ASN,215964
