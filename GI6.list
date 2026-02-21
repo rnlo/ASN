@@ -1,7 +1,7 @@
 # 🇬🇮GIASN Generated from https://bgp.he.net/country/GI
-# Updated at UTC 2026-02-20 08:33:57
+# Updated at UTC 2026-02-21 08:22:40
 # IPv6 Only
-# Total lines: 7
+# Total lines: 6
 # https://github.com/rnlo/ASN
 IP-ASN,8301
 IP-ASN,202087
@@ -9,4 +9,3 @@ IP-ASN,34803
 IP-ASN,212316
 IP-ASN,203619
 IP-ASN,196904
-IP-ASN,199926
