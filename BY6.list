@@ -1,7 +1,7 @@
 # 🇧🇾BYASN Generated from https://bgp.he.net/country/BY
-# Updated at UTC 2026-02-27 08:32:28
+# Updated at UTC 2026-02-28 08:19:26
 # IPv6 Only
-# Total lines: 37
+# Total lines: 38
 # https://github.com/rnlo/ASN
 IP-ASN,6697
 IP-ASN,60280
@@ -40,3 +40,4 @@ IP-ASN,215100
 IP-ASN,210845
 IP-ASN,209283
 IP-ASN,202090
+IP-ASN,201638
