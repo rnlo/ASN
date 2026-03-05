@@ -1,7 +1,7 @@
 # 🇼🇸WSASN Generated from https://bgp.he.net/country/WS
-# Updated at UTC 2026-03-04 08:32:39
+# Updated at UTC 2026-03-05 08:34:58
 # IPv4 Only
-# Total lines: 6
+# Total lines: 7
 # https://github.com/rnlo/ASN
 IP-ASN,17993
 IP-ASN,38800
@@ -9,3 +9,4 @@ IP-ASN,38227
 IP-ASN,153053
 IP-ASN,150321
 IP-ASN,139679
+IP-ASN,134376
