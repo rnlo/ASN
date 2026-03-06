@@ -1,7 +1,7 @@
 # 🇳🇴NOASN Generated from https://bgp.he.net/country/NO
-# Updated at UTC 2026-03-05 08:29:59
+# Updated at UTC 2026-03-06 08:27:00
 # IPv4 Only
-# Total lines: 283
+# Total lines: 284
 # https://github.com/rnlo/ASN
 IP-ASN,50304
 IP-ASN,56655
@@ -268,6 +268,7 @@ IP-ASN,201596
 IP-ASN,201577
 IP-ASN,201098
 IP-ASN,200915
+IP-ASN,200782
 IP-ASN,200693
 IP-ASN,200665
 IP-ASN,200168
