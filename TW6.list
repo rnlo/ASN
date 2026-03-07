@@ -1,5 +1,5 @@
 # 🇨🇳TWASN Generated from https://bgp.he.net/country/TW
-# Updated at UTC 2026-03-06 08:26:49
+# Updated at UTC 2026-03-07 08:19:09
 # IPv6 Only
 # Total lines: 177
 # https://github.com/rnlo/ASN
@@ -53,11 +53,11 @@ IP-ASN,212358
 IP-ASN,18428
 IP-ASN,18182
 IP-ASN,150767
-IP-ASN,152615
+IP-ASN,9681
 IP-ASN,203843
+IP-ASN,152615
 IP-ASN,142046
 IP-ASN,131638
-IP-ASN,9681
 IP-ASN,7532
 IP-ASN,17716
 IP-ASN,1659
