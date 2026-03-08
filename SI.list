@@ -1,11 +1,11 @@
 # 🇸🇮SIASN Generated from https://bgp.he.net/country/SI
-# Updated at UTC 2026-03-07 08:19:36
-# Total lines: 271
+# Updated at UTC 2026-03-08 08:20:41
+# Total lines: 270
 # https://github.com/rnlo/ASN
 IP-ASN,3212
 IP-ASN,62255
-IP-ASN,5603
 IP-ASN,9119
+IP-ASN,5603
 IP-ASN,34779
 IP-ASN,43061
 IP-ASN,25467
@@ -240,7 +240,6 @@ IP-ASN,212170
 IP-ASN,211776
 IP-ASN,211606
 IP-ASN,210719
-IP-ASN,210119
 IP-ASN,208243
 IP-ASN,20691
 IP-ASN,204177
