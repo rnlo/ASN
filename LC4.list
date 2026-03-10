@@ -1,9 +1,10 @@
 # 🇱🇨LCASN Generated from https://bgp.he.net/country/LC
-# Updated at UTC 2026-03-09 11:21:06
+# Updated at UTC 2026-03-10 08:36:51
 # IPv4 Only
-# Total lines: 4
+# Total lines: 5
 # https://github.com/rnlo/ASN
 IP-ASN,395561
+IP-ASN,33617
 IP-ASN,33582
 IP-ASN,397961
 IP-ASN,15344
