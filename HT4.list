@@ -1,10 +1,11 @@
 # 🇭🇹HTASN Generated from https://bgp.he.net/country/HT
-# Updated at UTC 2026-03-12 08:36:19
+# Updated at UTC 2026-03-13 08:33:48
 # IPv4 Only
-# Total lines: 5
+# Total lines: 6
 # https://github.com/rnlo/ASN
-IP-ASN,27653
 IP-ASN,52260
 IP-ASN,27759
+IP-ASN,27653
 IP-ASN,263685
+IP-ASN,52382
 IP-ASN,271897
