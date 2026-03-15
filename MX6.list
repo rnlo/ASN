@@ -1,7 +1,7 @@
 # 🇲🇽MXASN Generated from https://bgp.he.net/country/MX
-# Updated at UTC 2026-03-14 08:23:28
+# Updated at UTC 2026-03-15 08:26:35
 # IPv6 Only
-# Total lines: 291
+# Total lines: 292
 # https://github.com/rnlo/ASN
 IP-ASN,28398
 IP-ASN,28458
@@ -135,6 +135,7 @@ IP-ASN,272373
 IP-ASN,272368
 IP-ASN,270226
 IP-ASN,270222
+IP-ASN,270214
 IP-ASN,270200
 IP-ASN,270175
 IP-ASN,270173
