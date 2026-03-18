@@ -1,14 +1,13 @@
 # 🇹🇱TLASN Generated from https://bgp.he.net/country/TL
-# Updated at UTC 2026-03-17 08:44:29
+# Updated at UTC 2026-03-18 08:42:23
 # IPv4 Only
-# Total lines: 12
+# Total lines: 11
 # https://github.com/rnlo/ASN
 IP-ASN,7699
+IP-ASN,38077
 IP-ASN,133606
 IP-ASN,58731
-IP-ASN,38077
 IP-ASN,153183
-IP-ASN,64055
 IP-ASN,151605
 IP-ASN,140223
 IP-ASN,136920
