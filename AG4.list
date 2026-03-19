@@ -1,10 +1,9 @@
 # 🇦🇬AGASN Generated from https://bgp.he.net/country/AG
-# Updated at UTC 2026-03-18 08:42:09
+# Updated at UTC 2026-03-19 08:36:30
 # IPv4 Only
 # Total lines: 10
 # https://github.com/rnlo/ASN
 IP-ASN,31500
-IP-ASN,39102
 IP-ASN,50952
 IP-ASN,396304
 IP-ASN,11594
@@ -13,3 +12,4 @@ IP-ASN,399478
 IP-ASN,53312
 IP-ASN,398228
 IP-ASN,397529
+IP-ASN,39102

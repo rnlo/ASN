@@ -1,5 +1,5 @@
 # 🇯🇴JOASN Generated from https://bgp.he.net/country/JO
-# Updated at UTC 2026-03-18 08:40:11
+# Updated at UTC 2026-03-19 08:34:26
 # IPv6 Only
 # Total lines: 11
 # https://github.com/rnlo/ASN
@@ -11,6 +11,6 @@ IP-ASN,48832
 IP-ASN,47887
 IP-ASN,8376
 IP-ASN,50670
-IP-ASN,8934
 IP-ASN,44702
+IP-ASN,8934
 IP-ASN,208148
