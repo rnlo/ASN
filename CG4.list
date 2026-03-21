@@ -1,7 +1,7 @@
 # 🇨🇬CGASN Generated from https://bgp.he.net/country/CG
-# Updated at UTC 2026-03-20 08:34:43
+# Updated at UTC 2026-03-21 08:25:08
 # IPv4 Only
-# Total lines: 8
+# Total lines: 9
 # https://github.com/rnlo/ASN
 IP-ASN,37451
 IP-ASN,37463
@@ -10,4 +10,5 @@ IP-ASN,37548
 IP-ASN,328857
 IP-ASN,328329
 IP-ASN,327829
+IP-ASN,329632
 IP-ASN,328500
