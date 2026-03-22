@@ -1,5 +1,5 @@
 # 🇷🇼RWASN Generated from https://bgp.he.net/country/RW
-# Updated at UTC 2026-03-21 08:24:06
+# Updated at UTC 2026-03-22 08:26:19
 # IPv4 Only
 # Total lines: 19
 # https://github.com/rnlo/ASN
@@ -13,12 +13,12 @@ IP-ASN,37654
 IP-ASN,328180
 IP-ASN,328864
 IP-ASN,328014
-IP-ASN,37124
 IP-ASN,37010
 IP-ASN,329146
 IP-ASN,328922
 IP-ASN,328385
 IP-ASN,327899
+IP-ASN,37124
 IP-ASN,37006
 IP-ASN,329406
 IP-ASN,329104
