@@ -1,5 +1,5 @@
 # 🇿🇦ZAASN Generated from https://bgp.he.net/country/ZA
-# Updated at UTC 2026-03-22 08:22:49
+# Updated at UTC 2026-03-23 08:43:53
 # IPv6 Only
 # Total lines: 302
 # https://github.com/rnlo/ASN
@@ -66,7 +66,6 @@ IP-ASN,328306
 IP-ASN,328270
 IP-ASN,328262
 IP-ASN,327754
-IP-ASN,37542
 IP-ASN,328974
 IP-ASN,328870
 IP-ASN,328677
@@ -79,6 +78,7 @@ IP-ASN,327966
 IP-ASN,3067
 IP-ASN,6083
 IP-ASN,37640
+IP-ASN,37542
 IP-ASN,37254
 IP-ASN,329053
 IP-ASN,327982
