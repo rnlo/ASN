@@ -1,5 +1,5 @@
 # 🇵🇰PKASN Generated from https://bgp.he.net/country/PK
-# Updated at UTC 2026-03-30 09:04:05
+# Updated at UTC 2026-03-31 08:47:08
 # IPv4 Only
 # Total lines: 303
 # https://github.com/rnlo/ASN
@@ -55,6 +55,7 @@ IP-ASN,135003
 IP-ASN,133495
 IP-ASN,131275
 IP-ASN,7590
+IP-ASN,58506
 IP-ASN,55501
 IP-ASN,45814
 IP-ASN,45773
@@ -91,7 +92,6 @@ IP-ASN,58626
 IP-ASN,58609
 IP-ASN,58602
 IP-ASN,58515
-IP-ASN,58506
 IP-ASN,56192
 IP-ASN,56126
 IP-ASN,56052
