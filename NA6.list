@@ -1,7 +1,9 @@
 # 🇳🇦NAASN Generated from https://bgp.he.net/country/NA
-# Updated at UTC 2026-04-09 09:03:38
+# Updated at UTC 2026-04-10 09:04:13
 # IPv6 Only
-# Total lines: 2
+# Total lines: 4
 # https://github.com/rnlo/ASN
 IP-ASN,37009
 IP-ASN,20459
+IP-ASN,327694
+IP-ASN,329395
