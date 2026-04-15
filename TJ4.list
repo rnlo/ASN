@@ -1,5 +1,5 @@
 # 🇹🇯TJASN Generated from https://bgp.he.net/country/TJ
-# Updated at UTC 2026-04-14 09:12:39
+# Updated at UTC 2026-04-15 09:13:56
 # IPv4 Only
 # Total lines: 34
 # https://github.com/rnlo/ASN
@@ -12,9 +12,9 @@ IP-ASN,57443
 IP-ASN,47139
 IP-ASN,49945
 IP-ASN,8847
+IP-ASN,48887
 IP-ASN,199303
 IP-ASN,60101
-IP-ASN,48887
 IP-ASN,44961
 IP-ASN,44027
 IP-ASN,34557
