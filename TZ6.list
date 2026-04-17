@@ -1,7 +1,7 @@
 # 🇹🇿TZASN Generated from https://bgp.he.net/country/TZ
-# Updated at UTC 2026-04-16 09:11:45
+# Updated at UTC 2026-04-17 09:10:50
 # IPv6 Only
-# Total lines: 40
+# Total lines: 39
 # https://github.com/rnlo/ASN
 IP-ASN,37035
 IP-ASN,33765
@@ -37,7 +37,6 @@ IP-ASN,327859
 IP-ASN,327844
 IP-ASN,327819
 IP-ASN,37454
-IP-ASN,329488
 IP-ASN,328326
 IP-ASN,328325
 IP-ASN,328294
