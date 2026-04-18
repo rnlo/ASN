@@ -1,7 +1,7 @@
 # 🇮🇷IRASN Generated from https://bgp.he.net/country/IR
-# Updated at UTC 2026-04-17 09:08:33
+# Updated at UTC 2026-04-18 08:37:31
 # IPv4 Only
-# Total lines: 576
+# Total lines: 575
 # https://github.com/rnlo/ASN
 IP-ASN,214145
 IP-ASN,49666
@@ -428,7 +428,6 @@ IP-ASN,215700
 IP-ASN,215633
 IP-ASN,215351
 IP-ASN,215285
-IP-ASN,214858
 IP-ASN,214824
 IP-ASN,214805
 IP-ASN,214567

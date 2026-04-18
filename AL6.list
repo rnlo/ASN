@@ -1,7 +1,7 @@
 # 🇦🇱ALASN Generated from https://bgp.he.net/country/AL
-# Updated at UTC 2026-04-17 09:10:48
+# Updated at UTC 2026-04-18 08:39:23
 # IPv6 Only
-# Total lines: 53
+# Total lines: 51
 # https://github.com/rnlo/ASN
 IP-ASN,210464
 IP-ASN,198890
@@ -44,12 +44,10 @@ IP-ASN,216325
 IP-ASN,216122
 IP-ASN,215707
 IP-ASN,214469
-IP-ASN,213295
 IP-ASN,212986
 IP-ASN,212766
 IP-ASN,212637
 IP-ASN,211458
-IP-ASN,211385
 IP-ASN,211210
 IP-ASN,211147
 IP-ASN,207502
