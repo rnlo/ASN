@@ -1,5 +1,5 @@
 # 🇨🇾CYASN Generated from https://bgp.he.net/country/CY
-# Updated at UTC 2026-04-26 08:51:27
+# Updated at UTC 2026-04-27 10:07:22
 # IPv6 Only
 # Total lines: 46
 # https://github.com/rnlo/ASN
@@ -15,8 +15,8 @@ IP-ASN,202448
 IP-ASN,204453
 IP-ASN,51297
 IP-ASN,15805
-IP-ASN,209231
 IP-ASN,5531
+IP-ASN,209231
 IP-ASN,51606
 IP-ASN,5504
 IP-ASN,203690
