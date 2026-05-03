@@ -1,5 +1,5 @@
 # 🇲🇰MKASN Generated from https://bgp.he.net/country/MK
-# Updated at UTC 2026-05-02 08:59:49
+# Updated at UTC 2026-05-03 09:15:59
 # IPv4 Only
 # Total lines: 60
 # https://github.com/rnlo/ASN
@@ -12,10 +12,10 @@ IP-ASN,43612
 IP-ASN,39766
 IP-ASN,5379
 IP-ASN,52188
-IP-ASN,49056
 IP-ASN,41557
-IP-ASN,209613
+IP-ASN,49056
 IP-ASN,215968
+IP-ASN,209613
 IP-ASN,206666
 IP-ASN,44224
 IP-ASN,211450
