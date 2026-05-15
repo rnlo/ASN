@@ -1,7 +1,7 @@
 # 🇧🇫BFASN Generated from https://bgp.he.net/country/BF
-# Updated at UTC 2026-05-14 10:09:13
+# Updated at UTC 2026-05-15 10:16:28
 # IPv6 Only
-# Total lines: 12
+# Total lines: 14
 # https://github.com/rnlo/ASN
 IP-ASN,37721
 IP-ASN,328316
@@ -9,9 +9,11 @@ IP-ASN,37577
 IP-ASN,25543
 IP-ASN,37008
 IP-ASN,328010
+IP-ASN,37734
 IP-ASN,37526
 IP-ASN,37073
 IP-ASN,328721
 IP-ASN,327871
+IP-ASN,329744
 IP-ASN,328898
 IP-ASN,328245
