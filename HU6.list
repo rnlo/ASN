@@ -1,5 +1,5 @@
 # 🇭🇺HUASN Generated from https://bgp.he.net/country/HU
-# Updated at UTC 2026-05-15 10:13:30
+# Updated at UTC 2026-05-16 09:21:41
 # IPv6 Only
 # Total lines: 99
 # https://github.com/rnlo/ASN
@@ -37,9 +37,9 @@ IP-ASN,59649
 IP-ASN,39201
 IP-ASN,24822
 IP-ASN,200964
+IP-ASN,56322
 IP-ASN,30836
 IP-ASN,29657
-IP-ASN,56322
 IP-ASN,43359
 IP-ASN,215904
 IP-ASN,208126
