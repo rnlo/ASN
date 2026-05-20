@@ -1,5 +1,5 @@
 # 🇪🇬EGASN Generated from https://bgp.he.net/country/EG
-# Updated at UTC 2026-05-19 10:55:36
+# Updated at UTC 2026-05-20 10:43:44
 # IPv4 Only
 # Total lines: 70
 # https://github.com/rnlo/ASN
@@ -29,7 +29,6 @@ IP-ASN,36990
 IP-ASN,36978
 IP-ASN,36870
 IP-ASN,33778
-IP-ASN,329720
 IP-ASN,329431
 IP-ASN,329131
 IP-ASN,329114
@@ -58,6 +57,7 @@ IP-ASN,37066
 IP-ASN,36935
 IP-ASN,36929
 IP-ASN,36906
+IP-ASN,329720
 IP-ASN,329520
 IP-ASN,329397
 IP-ASN,329359
