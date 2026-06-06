@@ -1,5 +1,5 @@
 # 🇺🇬UGASN Generated from https://bgp.he.net/country/UG
-# Updated at UTC 2026-06-05 11:20:37
+# Updated at UTC 2026-06-06 09:55:44
 # IPv6 Only
 # Total lines: 15
 # https://github.com/rnlo/ASN
@@ -13,8 +13,8 @@ IP-ASN,329415
 IP-ASN,327687
 IP-ASN,328939
 IP-ASN,328998
-IP-ASN,36901
 IP-ASN,329684
+IP-ASN,36901
 IP-ASN,329629
 IP-ASN,328813
 IP-ASN,328358
