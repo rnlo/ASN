@@ -1,7 +1,7 @@
 # 🇧🇪BEASN Generated from https://bgp.he.net/country/BE
-# Updated at UTC 2026-06-06 09:53:26
+# Updated at UTC 2026-06-07 10:22:17
 # IPv4 Only
-# Total lines: 276
+# Total lines: 275
 # https://github.com/rnlo/ASN
 IP-ASN,48185
 IP-ASN,6774
@@ -224,7 +224,6 @@ IP-ASN,35001
 IP-ASN,33864
 IP-ASN,29595
 IP-ASN,29533
-IP-ASN,29529
 IP-ASN,28988
 IP-ASN,28747
 IP-ASN,28704
