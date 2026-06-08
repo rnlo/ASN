@@ -1,7 +1,7 @@
 # 🇬🇦GAASN Generated from https://bgp.he.net/country/GA
-# Updated at UTC 2026-06-07 10:26:04
+# Updated at UTC 2026-06-08 12:25:37
 # IPv4 Only
-# Total lines: 8
+# Total lines: 9
 # https://github.com/rnlo/ASN
 IP-ASN,329118
 IP-ASN,37582
@@ -10,4 +10,5 @@ IP-ASN,37616
 IP-ASN,328429
 IP-ASN,327796
 IP-ASN,328304
+IP-ASN,328124
 IP-ASN,327876
