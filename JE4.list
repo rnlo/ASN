@@ -1,7 +1,7 @@
 # 🇯🇪JEASN Generated from https://bgp.he.net/country/JE
-# Updated at UTC 2026-06-20 10:31:25
+# Updated at UTC 2026-06-21 11:04:53
 # IPv4 Only
-# Total lines: 9
+# Total lines: 10
 # https://github.com/rnlo/ASN
 IP-ASN,13208
 IP-ASN,8681
@@ -12,3 +12,4 @@ IP-ASN,211875
 IP-ASN,206084
 IP-ASN,61143
 IP-ASN,47675
+IP-ASN,13173
