@@ -1,7 +1,7 @@
 # 🇰🇭KHASN Generated from https://bgp.he.net/country/KH
-# Updated at UTC 2026-06-26 10:45:13
+# Updated at UTC 2026-06-27 09:57:44
 # IPv6 Only
-# Total lines: 30
+# Total lines: 31
 # https://github.com/rnlo/ASN
 IP-ASN,55329
 IP-ASN,9902
@@ -12,10 +12,11 @@ IP-ASN,23673
 IP-ASN,45498
 IP-ASN,38623
 IP-ASN,24441
+IP-ASN,132213
 IP-ASN,38901
 IP-ASN,131207
-IP-ASN,7712
 IP-ASN,137236
+IP-ASN,7712
 IP-ASN,38600
 IP-ASN,139056
 IP-ASN,137989
