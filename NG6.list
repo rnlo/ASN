@@ -1,5 +1,5 @@
 # 🇳🇬NGASN Generated from https://bgp.he.net/country/NG
-# Updated at UTC 2026-06-30 10:49:09
+# Updated at UTC 2026-07-01 11:17:16
 # IPv6 Only
 # Total lines: 49
 # https://github.com/rnlo/ASN
@@ -25,11 +25,11 @@ IP-ASN,36938
 IP-ASN,37340
 IP-ASN,328160
 IP-ASN,37347
+IP-ASN,37248
 IP-ASN,329057
 IP-ASN,328668
 IP-ASN,37682
 IP-ASN,37495
-IP-ASN,37248
 IP-ASN,329740
 IP-ASN,329347
 IP-ASN,37714
