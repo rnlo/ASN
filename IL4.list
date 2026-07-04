@@ -1,5 +1,5 @@
 # 🇮🇱ILASN Generated from https://bgp.he.net/country/IL
-# Updated at UTC 2026-07-03 10:26:56
+# Updated at UTC 2026-07-04 09:59:50
 # IPv4 Only
 # Total lines: 318
 # https://github.com/rnlo/ASN
@@ -24,8 +24,8 @@ IP-ASN,25003
 IP-ASN,5585
 IP-ASN,212616
 IP-ASN,206614
-IP-ASN,213176
 IP-ASN,47962
+IP-ASN,213176
 IP-ASN,202940
 IP-ASN,9116
 IP-ASN,60636
