@@ -1,5 +1,5 @@
 # 🇷🇴ROASN Generated from https://bgp.he.net/country/RO
-# Updated at UTC 2026-07-05 10:02:56
+# Updated at UTC 2026-07-06 11:54:03
 # IPv6 Only
 # Total lines: 179
 # https://github.com/rnlo/ASN
@@ -24,8 +24,8 @@ IP-ASN,31554
 IP-ASN,215230
 IP-ASN,6910
 IP-ASN,3233
-IP-ASN,39668
 IP-ASN,200841
+IP-ASN,39668
 IP-ASN,48112
 IP-ASN,202779
 IP-ASN,2614
