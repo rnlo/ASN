@@ -1,7 +1,7 @@
 # 🇷🇺RUASN Generated from https://bgp.he.net/country/RU
-# Updated at UTC 2026-07-09 10:56:59
+# Updated at UTC 2026-07-10 10:42:46
 # IPv4 Only
-# Total lines: 4966
+# Total lines: 4967
 # https://github.com/rnlo/ASN
 IP-ASN,20764
 IP-ASN,3216
@@ -4363,6 +4363,7 @@ IP-ASN,219506
 IP-ASN,219445
 IP-ASN,219413
 IP-ASN,219407
+IP-ASN,219340
 IP-ASN,219291
 IP-ASN,216423
 IP-ASN,216368

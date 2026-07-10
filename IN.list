@@ -1,6 +1,6 @@
 # 🇮🇳INASN Generated from https://bgp.he.net/country/IN
-# Updated at UTC 2026-07-09 10:57:03
-# Total lines: 3001
+# Updated at UTC 2026-07-10 10:42:50
+# Total lines: 3002
 # https://github.com/rnlo/ASN
 IP-ASN,9498
 IP-ASN,4755
@@ -2976,6 +2976,7 @@ IP-ASN,10199
 IP-ASN,10123
 IP-ASN,38746
 IP-ASN,38620
+IP-ASN,219272
 IP-ASN,216452
 IP-ASN,214832
 IP-ASN,214485
