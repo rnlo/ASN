@@ -1,7 +1,7 @@
 # 🇳🇵NPASN Generated from https://bgp.he.net/country/NP
-# Updated at UTC 2026-07-22 10:15:39
+# Updated at UTC 2026-07-23 10:12:19
 # IPv6 Only
-# Total lines: 76
+# Total lines: 78
 # https://github.com/rnlo/ASN
 IP-ASN,4007
 IP-ASN,17501
@@ -22,6 +22,7 @@ IP-ASN,137187
 IP-ASN,4613
 IP-ASN,45157
 IP-ASN,18222
+IP-ASN,17412
 IP-ASN,151663
 IP-ASN,138388
 IP-ASN,132407
@@ -59,6 +60,7 @@ IP-ASN,23672
 IP-ASN,154235
 IP-ASN,154038
 IP-ASN,153566
+IP-ASN,152691
 IP-ASN,152307
 IP-ASN,151798
 IP-ASN,150424
