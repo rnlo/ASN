@@ -1,12 +1,12 @@
 # 🇪🇹ETASN Generated from https://bgp.he.net/country/ET
-# Updated at UTC 2026-07-30 10:17:56
+# Updated at UTC 2026-07-31 10:34:45
 # IPv4 Only
 # Total lines: 7
 # https://github.com/rnlo/ASN
 IP-ASN,24757
 IP-ASN,328988
-IP-ASN,37467
 IP-ASN,329625
+IP-ASN,329227
+IP-ASN,37467
 IP-ASN,329327
 IP-ASN,329265
-IP-ASN,329227
