@@ -1,7 +1,7 @@
 # 🇭🇳HNASN Generated from https://bgp.he.net/country/HN
-# Updated at UTC 2026-08-02 09:50:50
+# Updated at UTC 2026-08-03 11:14:48
 # IPv6 Only
-# Total lines: 65
+# Total lines: 66
 # https://github.com/rnlo/ASN
 IP-ASN,265680
 IP-ASN,263725
@@ -44,6 +44,7 @@ IP-ASN,52390
 IP-ASN,274240
 IP-ASN,274235
 IP-ASN,274085
+IP-ASN,273980
 IP-ASN,273887
 IP-ASN,272916
 IP-ASN,272009

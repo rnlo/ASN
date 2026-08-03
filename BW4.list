@@ -1,12 +1,12 @@
 # 🇧🇼BWASN Generated from https://bgp.he.net/country/BW
-# Updated at UTC 2026-08-02 09:52:05
+# Updated at UTC 2026-08-03 11:16:00
 # IPv4 Only
-# Total lines: 31
+# Total lines: 30
 # https://github.com/rnlo/ASN
 IP-ASN,37678
+IP-ASN,327716
 IP-ASN,37395
 IP-ASN,36963
-IP-ASN,327716
 IP-ASN,14988
 IP-ASN,37014
 IP-ASN,328459
@@ -19,7 +19,6 @@ IP-ASN,328737
 IP-ASN,37711
 IP-ASN,37257
 IP-ASN,37051
-IP-ASN,329731
 IP-ASN,329713
 IP-ASN,329615
 IP-ASN,329301
