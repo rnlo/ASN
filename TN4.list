@@ -1,5 +1,5 @@
 # 🇹🇳TNASN Generated from https://bgp.he.net/country/TN
-# Updated at UTC 2026-08-04 10:30:27
+# Updated at UTC 2026-08-05 10:27:27
 # IPv4 Only
 # Total lines: 25
 # https://github.com/rnlo/ASN
@@ -10,8 +10,8 @@ IP-ASN,2609
 IP-ASN,5438
 IP-ASN,37705
 IP-ASN,37504
-IP-ASN,327934
 IP-ASN,37351
+IP-ASN,327934
 IP-ASN,37709
 IP-ASN,37671
 IP-ASN,329563
