@@ -1,7 +1,7 @@
 # 🇲🇼MWASN Generated from https://bgp.he.net/country/MW
-# Updated at UTC 2026-08-06 10:30:37
+# Updated at UTC 2026-08-07 08:49:32
 # IPv6 Only
-# Total lines: 14
+# Total lines: 13
 # https://github.com/rnlo/ASN
 IP-ASN,36944
 IP-ASN,37187
@@ -16,4 +16,3 @@ IP-ASN,329434
 IP-ASN,37215
 IP-ASN,328949
 IP-ASN,329483
-IP-ASN,328403
