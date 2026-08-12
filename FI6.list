@@ -1,5 +1,5 @@
 # 🇫🇮FIASN Generated from https://bgp.he.net/country/FI
-# Updated at UTC 2026-08-11 08:44:04
+# Updated at UTC 2026-08-12 09:00:53
 # IPv6 Only
 # Total lines: 151
 # https://github.com/rnlo/ASN
@@ -42,7 +42,6 @@ IP-ASN,29243
 IP-ASN,212112
 IP-ASN,199231
 IP-ASN,8829
-IP-ASN,51941
 IP-ASN,51164
 IP-ASN,39242
 IP-ASN,215605
@@ -50,6 +49,7 @@ IP-ASN,200656
 IP-ASN,8145
 IP-ASN,57692
 IP-ASN,5411
+IP-ASN,51941
 IP-ASN,51691
 IP-ASN,51319
 IP-ASN,49866
