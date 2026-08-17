@@ -1,7 +1,7 @@
 # 🇬🇹GTASN Generated from https://bgp.he.net/country/GT
-# Updated at UTC 2026-08-16 08:19:07
+# Updated at UTC 2026-08-17 08:33:15
 # IPv6 Only
-# Total lines: 39
+# Total lines: 38
 # https://github.com/rnlo/ASN
 IP-ASN,262206
 IP-ASN,14754
@@ -17,7 +17,6 @@ IP-ASN,269964
 IP-ASN,265684
 IP-ASN,263218
 IP-ASN,272969
-IP-ASN,272012
 IP-ASN,263714
 IP-ASN,20299
 IP-ASN,273871
