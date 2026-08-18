@@ -1,5 +1,5 @@
 # 🇧🇿BZASN Generated from https://bgp.he.net/country/BZ
-# Updated at UTC 2026-08-17 08:33:51
+# Updated at UTC 2026-08-18 08:25:57
 # IPv4 Only
 # Total lines: 20
 # https://github.com/rnlo/ASN
@@ -8,9 +8,9 @@ IP-ASN,210083
 IP-ASN,263824
 IP-ASN,64160
 IP-ASN,10269
-IP-ASN,60387
 IP-ASN,52449
 IP-ASN,265826
+IP-ASN,60387
 IP-ASN,265727
 IP-ASN,262239
 IP-ASN,60528
