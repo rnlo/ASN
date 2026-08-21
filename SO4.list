@@ -1,7 +1,7 @@
 # 🇸🇴SOASN Generated from https://bgp.he.net/country/SO
-# Updated at UTC 2026-08-20 08:29:17
+# Updated at UTC 2026-08-21 08:31:14
 # IPv4 Only
-# Total lines: 19
+# Total lines: 20
 # https://github.com/rnlo/ASN
 IP-ASN,327732
 IP-ASN,37425
@@ -17,6 +17,7 @@ IP-ASN,328954
 IP-ASN,328435
 IP-ASN,327828
 IP-ASN,37644
+IP-ASN,37326
 IP-ASN,328959
 IP-ASN,328953
 IP-ASN,327764
