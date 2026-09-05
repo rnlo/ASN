@@ -1,6 +1,6 @@
 # 🇵🇱PLASN Generated from https://bgp.he.net/country/PL
-# Updated at UTC 2026-09-04 12:20:33
-# Total lines: 2162
+# Updated at UTC 2026-09-05 11:28:04
+# Total lines: 2163
 # https://github.com/rnlo/ASN
 IP-ASN,12741
 IP-ASN,20804
@@ -1355,6 +1355,7 @@ IP-ASN,24985
 IP-ASN,24619
 IP-ASN,24597
 IP-ASN,219121
+IP-ASN,218917
 IP-ASN,215985
 IP-ASN,215966
 IP-ASN,215484
