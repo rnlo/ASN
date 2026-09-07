@@ -1,7 +1,7 @@
 # 🇫🇷FRASN Generated from https://bgp.he.net/country/FR
-# Updated at UTC 2026-09-06 11:48:53
+# Updated at UTC 2026-09-07 13:46:34
 # IPv6 Only
-# Total lines: 795
+# Total lines: 796
 # https://github.com/rnlo/ASN
 IP-ASN,35280
 IP-ASN,16276
@@ -708,6 +708,7 @@ IP-ASN,219331
 IP-ASN,219179
 IP-ASN,219066
 IP-ASN,218888
+IP-ASN,218778
 IP-ASN,216443
 IP-ASN,216430
 IP-ASN,216428
