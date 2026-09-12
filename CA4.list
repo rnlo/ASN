@@ -1,7 +1,7 @@
 # 🇨🇦CAASN Generated from https://bgp.he.net/country/CA
-# Updated at UTC 2026-09-11 12:25:51
+# Updated at UTC 2026-09-12 11:47:05
 # IPv4 Only
-# Total lines: 1598
+# Total lines: 1599
 # https://github.com/rnlo/ASN
 IP-ASN,54148
 IP-ASN,52210
@@ -1179,6 +1179,7 @@ IP-ASN,46882
 IP-ASN,46877
 IP-ASN,46757
 IP-ASN,46686
+IP-ASN,46675
 IP-ASN,46626
 IP-ASN,46554
 IP-ASN,46546
