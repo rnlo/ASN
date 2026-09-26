@@ -1,7 +1,7 @@
 # 🇭🇰HKASN Generated from https://bgp.he.net/country/HK
-# Updated at UTC 2026-09-25 13:05:54
+# Updated at UTC 2026-09-26 12:33:26
 # IPv6 Only
-# Total lines: 328
+# Total lines: 327
 # https://github.com/rnlo/ASN
 IP-ASN,63927
 IP-ASN,58453
@@ -294,7 +294,6 @@ IP-ASN,133926
 IP-ASN,133484
 IP-ASN,60188
 IP-ASN,57175
-IP-ASN,48274
 IP-ASN,47637
 IP-ASN,38023
 IP-ASN,34567
