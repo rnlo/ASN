@@ -1,7 +1,7 @@
 # 🇹🇷TRASN Generated from https://bgp.he.net/country/TR
-# Updated at UTC 2026-09-29 14:27:10
+# Updated at UTC 2026-09-30 14:24:06
 # IPv4 Only
-# Total lines: 859
+# Total lines: 858
 # https://github.com/rnlo/ASN
 IP-ASN,12735
 IP-ASN,204457
@@ -618,7 +618,6 @@ IP-ASN,213657
 IP-ASN,213654
 IP-ASN,213652
 IP-ASN,213588
-IP-ASN,213570
 IP-ASN,213489
 IP-ASN,213417
 IP-ASN,213377
