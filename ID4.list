@@ -1,7 +1,7 @@
 # 🇮🇩IDASN Generated from https://bgp.he.net/country/ID
-# Updated at UTC 2026-10-02 14:16:54
+# Updated at UTC 2026-10-03 12:49:31
 # IPv4 Only
-# Total lines: 2877
+# Total lines: 2878
 # https://github.com/rnlo/ASN
 IP-ASN,55818
 IP-ASN,7713
@@ -2620,6 +2620,7 @@ IP-ASN,141587
 IP-ASN,141584
 IP-ASN,141578
 IP-ASN,141576
+IP-ASN,141171
 IP-ASN,141144
 IP-ASN,141135
 IP-ASN,141133
