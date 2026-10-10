@@ -1,7 +1,7 @@
 # 🇧🇷BRASN Generated from https://bgp.he.net/country/BR
-# Updated at UTC 2026-10-09 14:45:48
+# Updated at UTC 2026-10-10 14:04:19
 # IPv6 Only
-# Total lines: 7657
+# Total lines: 7658
 # https://github.com/rnlo/ASN
 IP-ASN,271253
 IP-ASN,14840
@@ -4352,6 +4352,7 @@ IP-ASN,275732
 IP-ASN,275727
 IP-ASN,275720
 IP-ASN,275701
+IP-ASN,275691
 IP-ASN,275658
 IP-ASN,275647
 IP-ASN,275634
