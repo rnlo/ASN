@@ -1,7 +1,7 @@
 # 🇬🇧GBASN Generated from https://bgp.he.net/country/GB
-# Updated at UTC 2026-10-10 14:04:36
+# Updated at UTC 2026-10-11 14:28:26
 # IPv6 Only
-# Total lines: 1081
+# Total lines: 1080
 # https://github.com/rnlo/ASN
 IP-ASN,8801
 IP-ASN,4455
@@ -820,7 +820,6 @@ IP-ASN,211878
 IP-ASN,211289
 IP-ASN,210924
 IP-ASN,210874
-IP-ASN,210812
 IP-ASN,210546
 IP-ASN,210025
 IP-ASN,209669
