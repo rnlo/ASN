@@ -1,7 +1,7 @@
 # 🇳🇱NLASN Generated from https://bgp.he.net/country/NL
-# Updated at UTC 2026-10-20 13:07:37
+# Updated at UTC 2026-10-21 13:18:21
 # IPv4 Only
-# Total lines: 1044
+# Total lines: 1045
 # https://github.com/rnlo/ASN
 IP-ASN,49544
 IP-ASN,15830
@@ -471,6 +471,7 @@ IP-ASN,198692
 IP-ASN,198334
 IP-ASN,16281
 IP-ASN,137509
+IP-ASN,9327
 IP-ASN,8694
 IP-ASN,64495
 IP-ASN,64437
