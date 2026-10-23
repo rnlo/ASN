@@ -1,7 +1,7 @@
 # 🇩🇪DEASN Generated from https://bgp.he.net/country/DE
-# Updated at UTC 2026-10-22 13:16:38
+# Updated at UTC 2026-10-23 12:56:19
 # IPv6 Only
-# Total lines: 1760
+# Total lines: 1759
 # https://github.com/rnlo/ASN
 IP-ASN,24940
 IP-ASN,5405
@@ -110,7 +110,6 @@ IP-ASN,12611
 IP-ASN,60345
 IP-ASN,5430
 IP-ASN,29686
-IP-ASN,48173
 IP-ASN,35205
 IP-ASN,203329
 IP-ASN,15933
