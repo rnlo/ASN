@@ -1,7 +1,7 @@
 # 🇺🇦UAASN Generated from https://bgp.he.net/country/UA
-# Updated at UTC 2026-11-03 15:34:53
+# Updated at UTC 2026-11-04 15:50:58
 # IPv6 Only
-# Total lines: 329
+# Total lines: 330
 # https://github.com/rnlo/ASN
 IP-ASN,199995
 IP-ASN,48919
@@ -275,6 +275,7 @@ IP-ASN,25398
 IP-ASN,24681
 IP-ASN,219268
 IP-ASN,214368
+IP-ASN,213354
 IP-ASN,213187
 IP-ASN,21308
 IP-ASN,212825
