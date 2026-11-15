@@ -1,6 +1,6 @@
 # 🇦🇺AUASN Generated from https://bgp.he.net/country/AU
-# Updated at UTC 2026-11-14 14:36:46
-# Total lines: 1706
+# Updated at UTC 2026-11-15 15:04:57
+# Total lines: 1707
 # https://github.com/rnlo/ASN
 IP-ASN,137409
 IP-ASN,58511
@@ -1684,6 +1684,7 @@ IP-ASN,215462
 IP-ASN,214501
 IP-ASN,213437
 IP-ASN,213136
+IP-ASN,212483
 IP-ASN,208266
 IP-ASN,203943
 IP-ASN,202464
