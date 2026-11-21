@@ -1,7 +1,7 @@
 # 🇺🇸USASN Generated from https://bgp.he.net/country/US
-# Updated at UTC 2026-11-20 16:28:41
+# Updated at UTC 2026-11-21 15:43:57
 # IPv4 Only
-# Total lines: 18820
+# Total lines: 18821
 # https://github.com/rnlo/ASN
 IP-ASN,6939
 IP-ASN,36236
@@ -14174,6 +14174,7 @@ IP-ASN,402865
 IP-ASN,402864
 IP-ASN,402857
 IP-ASN,402853
+IP-ASN,402829
 IP-ASN,402826
 IP-ASN,402823
 IP-ASN,402818
